@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: fd36fd7f664426a41abb6dbab49a0ce6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Beta_Joints
+    100002: Beta_Surface
+    100004: //RootNode
+    100006: mixamorig:Head
+    100008: mixamorig:HeadTop_End
+    100010: mixamorig:Hips
+    100012: mixamorig:LeftArm
+    100014: mixamorig:LeftEye
+    100016: mixamorig:LeftFoot
+    100018: mixamorig:LeftForeArm
+    100020: mixamorig:LeftHand
+    100022: mixamorig:LeftHandIndex1
+    100024: mixamorig:LeftHandIndex2
+    100026: mixamorig:LeftHandIndex3
+    100028: mixamorig:LeftHandIndex4
+    100030: mixamorig:LeftHandMiddle1
+    100032: mixamorig:LeftHandMiddle2
+    100034: mixamorig:LeftHandMiddle3
+    100036: mixamorig:LeftHandMiddle4
+    100038: mixamorig:LeftHandPinky1
+    100040: mixamorig:LeftHandPinky2
+    100042: mixamorig:LeftHandPinky3
+    100044: mixamorig:LeftHandPinky4
+    100046: mixamorig:LeftHandRing1
+    100048: mixamorig:LeftHandRing2
+    100050: mixamorig:LeftHandRing3
+    100052: mixamorig:LeftHandRing4
+    100054: mixamorig:LeftHandThumb1
+    100056: mixamorig:LeftHandThumb2
+    100058: mixamorig:LeftHandThumb3
+    100060: mixamorig:LeftHandThumb4
+    100062: mixamorig:LeftLeg
+    100064: mixamorig:LeftShoulder
+    100066: mixamorig:LeftToe_End
+    100068: mixamorig:LeftToeBase
+    100070: mixamorig:LeftUpLeg
+    100072: mixamorig:Neck
+    100074: mixamorig:RightArm
+    100076: mixamorig:RightEye
+    100078: mixamorig:RightFoot
+    100080: mixamorig:RightForeArm
+    100082: mixamorig:RightHand
+    100084: mixamorig:RightHandIndex1
+    100086: mixamorig:RightHandIndex2
+    100088: mixamorig:RightHandIndex3
+    100090: mixamorig:RightHandIndex4
+    100092: mixamorig:RightHandMiddle1
+    100094: mixamorig:RightHandMiddle2
+    100096: mixamorig:RightHandMiddle3
+    100098: mixamorig:RightHandMiddle4
+    100100: mixamorig:RightHandPinky1
+    100102: mixamorig:RightHandPinky2
+    100104: mixamorig:RightHandPinky3
+    100106: mixamorig:RightHandPinky4
+    100108: mixamorig:RightHandRing1
+    100110: mixamorig:RightHandRing2
+    100112: mixamorig:RightHandRing3
+    100114: mixamorig:RightHandRing4
+    100116: mixamorig:RightHandThumb1
+    100118: mixamorig:RightHandThumb2
+    100120: mixamorig:RightHandThumb3
+    100122: mixamorig:RightHandThumb4
+    100124: mixamorig:RightLeg
+    100126: mixamorig:RightShoulder
+    100128: mixamorig:RightToe_End
+    100130: mixamorig:RightToeBase
+    100132: mixamorig:RightUpLeg
+    100134: mixamorig:Spine
+    100136: mixamorig:Spine1
+    100138: mixamorig:Spine2
+    400000: Beta_Joints
+    400002: Beta_Surface
+    400004: //RootNode
+    400006: mixamorig:Head
+    400008: mixamorig:HeadTop_End
+    400010: mixamorig:Hips
+    400012: mixamorig:LeftArm
+    400014: mixamorig:LeftEye
+    400016: mixamorig:LeftFoot
+    400018: mixamorig:LeftForeArm
+    400020: mixamorig:LeftHand
+    400022: mixamorig:LeftHandIndex1
+    400024: mixamorig:LeftHandIndex2
+    400026: mixamorig:LeftHandIndex3
+    400028: mixamorig:LeftHandIndex4
+    400030: mixamorig:LeftHandMiddle1
+    400032: mixamorig:LeftHandMiddle2
+    400034: mixamorig:LeftHandMiddle3
+    400036: mixamorig:LeftHandMiddle4
+    400038: mixamorig:LeftHandPinky1
+    400040: mixamorig:LeftHandPinky2
+    400042: mixamorig:LeftHandPinky3
+    400044: mixamorig:LeftHandPinky4
+    400046: mixamorig:LeftHandRing1
+    400048: mixamorig:LeftHandRing2
+    400050: mixamorig:LeftHandRing3
+    400052: mixamorig:LeftHandRing4
+    400054: mixamorig:LeftHandThumb1
+    400056: mixamorig:LeftHandThumb2
+    400058: mixamorig:LeftHandThumb3
+    400060: mixamorig:LeftHandThumb4
+    400062: mixamorig:LeftLeg
+    400064: mixamorig:LeftShoulder
+    400066: mixamorig:LeftToe_End
+    400068: mixamorig:LeftToeBase
+    400070: mixamorig:LeftUpLeg
+    400072: mixamorig:Neck
+    400074: mixamorig:RightArm
+    400076: mixamorig:RightEye
+    400078: mixamorig:RightFoot
+    400080: mixamorig:RightForeArm
+    400082: mixamorig:RightHand
+    400084: mixamorig:RightHandIndex1
+    400086: mixamorig:RightHandIndex2
+    400088: mixamorig:RightHandIndex3
+    400090: mixamorig:RightHandIndex4
+    400092: mixamorig:RightHandMiddle1
+    400094: mixamorig:RightHandMiddle2
+    400096: mixamorig:RightHandMiddle3
+    400098: mixamorig:RightHandMiddle4
+    400100: mixamorig:RightHandPinky1
+    400102: mixamorig:RightHandPinky2
+    400104: mixamorig:RightHandPinky3
+    400106: mixamorig:RightHandPinky4
+    400108: mixamorig:RightHandRing1
+    400110: mixamorig:RightHandRing2
+    400112: mixamorig:RightHandRing3
+    400114: mixamorig:RightHandRing4
+    400116: mixamorig:RightHandThumb1
+    400118: mixamorig:RightHandThumb2
+    400120: mixamorig:RightHandThumb3
+    400122: mixamorig:RightHandThumb4
+    400124: mixamorig:RightLeg
+    400126: mixamorig:RightShoulder
+    400128: mixamorig:RightToe_End
+    400130: mixamorig:RightToeBase
+    400132: mixamorig:RightUpLeg
+    400134: mixamorig:Spine
+    400136: mixamorig:Spine1
+    400138: mixamorig:Spine2
+    2100000: Beta_Joints_MAT
+    2100002: asdf1_Beta_HighLimbsGeoSG2
+    4300000: Beta_Joints
+    4300002: Beta_Surface
+    7400000: death
+    13700000: Beta_Joints
+    13700002: Beta_Surface
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: death
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: topo_base(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: gr_topo_geometria
+      parentName: topo_base(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lengua_topo
+      parentName: gr_topo_geometria
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bigote1_iz_topo
+      parentName: gr_topo_geometria
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bigote2_iz_topo
+      parentName: gr_topo_geometria
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bigote1_de_topo
+      parentName: gr_topo_geometria
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bigote2_de_topo
+      parentName: gr_topo_geometria
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cuerpo_topo
+      parentName: gr_topo_geometria
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: raiz_topo
+      parentName: topo_base(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tronco_cadera_topo
+      parentName: raiz_topo
+      position: {x: 0, y: 0.6874968, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tronco_columna_v1_topo
+      parentName: tronco_cadera_topo
+      position: {x: -3.192198e-18, y: 0.077358894, z: 0.009578179}
+      rotation: {x: -0.4873449, y: 0.51234263, z: -0.4873449, w: 0.5123427}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.000001}
+    - name: tronco_columna_v2_topo
+      parentName: tronco_columna_v1_topo
+      position: {x: -0.075, y: 2.52754e-10, z: 2.9909557e-17}
+      rotation: {x: -0.000000044703484, y: 0.000000059604645, z: -0.013773084, w: 0.9999052}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000001}
+    - name: tronco_columna_v3_topo
+      parentName: tronco_columna_v2_topo
+      position: {x: -0.07499998, y: 2.2902547e-10, z: 1.2278689e-17}
+      rotation: {x: -0.00000004747915, y: -0.0000000028696685, z: 0.048020836, w: -0.99884635}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000006}
+    - name: tronco_pecho_topo
+      parentName: tronco_columna_v3_topo
+      position: {x: -0.09999999, y: 3.2411615e-10, z: 3.7199445e-18}
+      rotation: {x: -0.000000057143467, y: -0.000000063240385, z: 0.022418909, w: 0.9997487}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000005}
+    - name: cabeza_cuello_topo
+      parentName: tronco_pecho_topo
+      position: {x: -0.17472942, y: -0.06556986, z: 1.7923212e-16}
+      rotation: {x: -0.000000023915266, y: -0.00000010596732, z: -0.23934393, w: -0.9709349}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000008}
+    - name: cabeza_cabeza_topo
+      parentName: cabeza_cuello_topo
+      position: {x: -0.12268404, y: -0.000000041717144, z: -4.4333957e-18}
+      rotation: {x: 0.0000000035713437, y: 0.000000017744174, z: 0.63655293, w: -0.7712331}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: bigote1_base_iz_topo
+      parentName: cabeza_cabeza_topo
+      position: {x: 0.09648437, y: -0.20044051, z: -0.069636986}
+      rotation: {x: 0.463065, y: -0.6990749, z: 0.47091037, w: 0.27405927}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000008}
+    - name: bigote1_1_iz_topo
+      parentName: bigote1_base_iz_topo
+      position: {x: -0.0892045, y: 4.2632563e-16, z: -7.105427e-17}
+      rotation: {x: 0.0014595311, y: 0.00873716, z: 0.10799628, w: 0.9941119}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: bigote1_2_iz_topo
+      parentName: bigote1_1_iz_topo
+      position: {x: -0.05307373, y: -4.973799e-16, z: 0}
+      rotation: {x: 0.002147007, y: 0.005528727, z: 0.051146183, w: 0.9986736}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: bigote1_3_iz_topo
+      parentName: bigote1_2_iz_topo
+      position: {x: -0.05874672, y: 4.973799e-16, z: -7.105427e-17}
+      rotation: {x: -0.0055361195, y: -0.00034618826, z: 0.080064185, w: 0.99677426}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+    - name: bigote1_4_iz_topo
+      parentName: bigote1_3_iz_topo
+      position: {x: -0.16928634, y: -2.1316282e-16, z: 0}
+      rotation: {x: 0.072083, y: 0.1859024, z: -0.4360797, w: 0.8775414}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: bigote2_base_iz_topo
+      parentName: cabeza_cabeza_topo
+      position: {x: 0.08977928, y: -0.17377679, z: -0.0810356}
+      rotation: {x: 0.5354053, y: -0.65099275, z: 0.41559553, w: 0.3418039}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
+    - name: bigote2_1_iz_topo
+      parentName: bigote2_base_iz_topo
+      position: {x: -0.062527046, y: 1.4210854e-16, z: 0}
+      rotation: {x: -0.00076368434, y: -0.0027405464, z: 0.07732941, w: 0.9970015}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: bigote2_2_iz_topo
+      parentName: bigote2_1_iz_topo
+      position: {x: -0.068617, y: -1.4210854e-16, z: 0}
+      rotation: {x: 0.0023454444, y: 0.0049078143, z: 0.096590996, w: 0.9953093}
+      scale: {x: 1.0000006, y: 1.0000001, z: 0.99999994}
+    - name: bigote2_3_iz_topo
+      parentName: bigote2_2_iz_topo
+      position: {x: -0.07921696, y: 1.4210854e-16, z: -7.105427e-17}
+      rotation: {x: -0.0027073312, y: -0.004148887, z: 0.0356409, w: 0.9993524}
+      scale: {x: 0.99999964, y: 1.0000004, z: 1.0000004}
+    - name: bigote2_4_iz_topo
+      parentName: bigote2_3_iz_topo
+      position: {x: -0.13503017, y: -2.842171e-16, z: 0}
+      rotation: {x: 0.06580814, y: 0.2076395, z: -0.29486978, w: 0.93038005}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999998}
+    - name: bigote1_base_de_topo
+      parentName: cabeza_cabeza_topo
+      position: {x: 0.09648437, y: -0.20044091, z: 0.06963699}
+      rotation: {x: 0.6990749, y: 0.463065, z: 0.27405927, w: -0.47091037}
+      scale: {x: 1.0000005, y: 1.0000024, z: 1.0000018}
+    - name: bigote1_1_de_topo
+      parentName: bigote1_base_de_topo
+      position: {x: 0.08920411, y: -0.00000023759263, z: 0.000000049156846}
+      rotation: {x: 0.0014595386, y: 0.00873716, z: 0.10799623, w: 0.9941119}
+      scale: {x: 1.0000002, y: 0.9999995, z: 0.9999997}
+    - name: bigote1_2_de_topo
+      parentName: bigote1_1_de_topo
+      position: {x: 0.053074516, y: 0.00000028848564, z: 0.00000074441266}
+      rotation: {x: 0.0021470306, y: 0.00552874, z: 0.05114619, w: 0.99867356}
+      scale: {x: 0.9999999, y: 1.0000011, z: 1.0000007}
+    - name: bigote1_3_de_topo
+      parentName: bigote1_2_de_topo
+      position: {x: 0.058746807, y: -0.0000006625056, z: -0.0000003133152}
+      rotation: {x: -0.0055361036, y: -0.00034627027, z: 0.080064185, w: 0.99677426}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000012}
+    - name: bigote1_4_de_topo
+      parentName: bigote1_3_de_topo
+      position: {x: 0.16928577, y: 0.00000013834423, z: 0.00000009397708}
+      rotation: {x: 0.07208289, y: 0.18590246, z: -0.43607965, w: 0.8775414}
+      scale: {x: 1.0000007, y: 0.9999995, z: 1.0000005}
+    - name: bigote2_base_de_topo
+      parentName: cabeza_cabeza_topo
+      position: {x: 0.089779384, y: -0.17377691, z: 0.08103559}
+      rotation: {x: 0.6509928, y: 0.53540534, z: 0.34180388, w: -0.41559556}
+      scale: {x: 1.0000007, y: 1.000002, z: 1.0000015}
+    - name: bigote2_1_de_topo
+      parentName: bigote2_base_de_topo
+      position: {x: 0.06252741, y: -0.00000019820777, z: 0.000000074780345}
+      rotation: {x: -0.0007636544, y: -0.002740427, z: 0.0773294, w: 0.9970015}
+      scale: {x: 0.99999976, y: 1.0000004, z: 1.0000007}
+    - name: bigote2_2_de_topo
+      parentName: bigote2_1_de_topo
+      position: {x: 0.06861715, y: 0.00000022484353, z: 0.0000003475931}
+      rotation: {x: 0.0023454183, y: 0.00490782, z: 0.09659098, w: 0.99530935}
+      scale: {x: 1, y: 1.000001, z: 1.0000007}
+    - name: bigote2_3_de_topo
+      parentName: bigote2_2_de_topo
+      position: {x: 0.07921624, y: 0.00000053010183, z: -0.0000004311982}
+      rotation: {x: -0.0027074555, y: -0.004148971, z: 0.035640843, w: 0.9993524}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.9999998}
+    - name: bigote2_4_de_topo
+      parentName: bigote2_3_de_topo
+      position: {x: 0.13503073, y: -0.00000014221344, z: 0.000000018695584}
+      rotation: {x: 0.06580819, y: 0.20763953, z: -0.2948697, w: 0.93038005}
+      scale: {x: 1.0000005, y: 0.9999988, z: 0.99999994}
+    - name: cabeza_fin_cabeza_topo
+      parentName: cabeza_cabeza_topo
+      position: {x: -0.12875102, y: -0.12570366, z: -3.9861165e-17}
+      rotation: {x: -0.5000001, y: 0.5, z: -0.50000006, w: -0.49999994}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: cabeza_mandibula_topo
+      parentName: cabeza_cabeza_topo
+      position: {x: 0.14156328, y: -0.03807564, z: 5.6815814e-17}
+      rotation: {x: -0.000000055784753, y: 0.000000010752893, z: -0.7726326, w: -0.6348535}
+      scale: {x: 1.0000015, y: 1.0000007, z: 1.0000012}
+    - name: cabeza_fin_mandibula_topo
+      parentName: cabeza_mandibula_topo
+      position: {x: -0.25675908, y: 0, z: 0}
+      rotation: {x: -0.068889506, y: -0.70374304, z: -0.06888945, w: 0.703743}
+      scale: {x: 1.0000005, y: 1, z: 1.0000002}
+    - name: tronco_omoplato_iz_topo
+      parentName: tronco_pecho_topo
+      position: {x: -0.10707136, y: 0.08308089, z: -0.07541936}
+      rotation: {x: -0.5622191, y: 0.4297814, z: -0.44506893, w: -0.5487361}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999998}
+    - name: brazoiz_brazo_iz_topo
+      parentName: tronco_omoplato_iz_topo
+      position: {x: -0.19825901, y: -0.000000030966184, z: 0.0000000014103667}
+      rotation: {x: 0.005936979, y: 0.03158889, z: 0.14545341, w: 0.9888429}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000006}
+    - name: brazoiz_antebrazo_iz_topo
+      parentName: brazoiz_brazo_iz_topo
+      position: {x: -0.27609476, y: 0.000000006681421, z: -0.0179559}
+      rotation: {x: -0.0005921399, y: 0.14152065, z: -0.0092687635, w: 0.9898917}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000001}
+    - name: brazoiz_mano_iz_topo
+      parentName: brazoiz_antebrazo_iz_topo
+      position: {x: -0.17812276, y: 0.00000001670604, z: -0.000000022420782}
+      rotation: {x: 0.06645362, y: -0.10995917, z: -0.044548348, w: 0.990711}
+      scale: {x: 1, y: 0.9999999, z: 0.9999995}
+    - name: brazoiz_d1_iz_0_topo
+      parentName: brazoiz_mano_iz_topo
+      position: {x: -0.029116293, y: -0.05509125, z: 0.051546354}
+      rotation: {x: 0.5357035, y: 0.43190297, z: -0.100575015, w: 0.7185864}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000012}
+    - name: brazoiz_d1_iz_1_topo
+      parentName: brazoiz_d1_iz_0_topo
+      position: {x: -0.05958614, y: -0.0000000039516026, z: 0.000000045870365}
+      rotation: {x: -0.000000029802315, y: 0.00000005960463, z: 0.25440526, w: 0.9670977}
+      scale: {x: 0.9999994, y: 1.0000006, z: 1}
+    - name: brazoiz_d1_iz_2_topo
+      parentName: brazoiz_d1_iz_1_topo
+      position: {x: -0.04222124, y: -0.000000002736255, z: -0.000000047127475}
+      rotation: {x: 0.000000092429296, y: 0.00000006237824, z: 0.25060365, w: 0.9680898}
+      scale: {x: 1.0000005, y: 1, z: 1}
+    - name: brazoiz_d1_iz_fin_topo
+      parentName: brazoiz_d1_iz_2_topo
+      position: {x: -0.053715926, y: 1.8207657e-16, z: -2.842171e-16}
+      rotation: {x: -2.333635e-10, y: 0.000000058691963, z: -0.5422542, w: 0.84021455}
+      scale: {x: 1, y: 1.0000001, z: 0.9999998}
+    - name: brazoiz_d2_iz_0_topo
+      parentName: brazoiz_mano_iz_topo
+      position: {x: -0.13576023, y: 0.0004729608, z: 0.052268393}
+      rotation: {x: -0.035942506, y: -0.02842633, z: 0.11781928, w: 0.9919772}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+    - name: brazoiz_d2_iz_1_topo
+      parentName: brazoiz_d2_iz_0_topo
+      position: {x: -0.063539155, y: -0.000000076710954, z: 0.000000007427964}
+      rotation: {x: 0.00000023469323, y: 0.000000057741985, z: 0.09465601, w: 0.99551004}
+      scale: {x: 1.0000011, y: 1.0000011, z: 1.0000012}
+    - name: brazoiz_d2_iz_2_topo
+      parentName: brazoiz_d2_iz_1_topo
+      position: {x: -0.057292018, y: 0.000000059095495, z: -0.000000007413044}
+      rotation: {x: -0.00000005768905, y: -0.00000000977196, z: 0.09294784, w: 0.99567103}
+      scale: {x: 1.0000002, y: 0.9999997, z: 1}
+    - name: brazoiz_d2_iz_fin_topo
+      parentName: brazoiz_d2_iz_2_topo
+      position: {x: -0.053715926, y: 0, z: 3.9968027e-17}
+      rotation: {x: -0.000000047006765, y: 0.000000015794434, z: -0.5422539, w: 0.8402147}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1}
+    - name: brazoiz_d3_iz_0_topo
+      parentName: brazoiz_mano_iz_topo
+      position: {x: -0.13532872, y: 0.000000009160357, z: 0.000000008532004}
+      rotation: {x: -0.04936693, y: -0.03493039, z: 0.12978572, w: 0.9896962}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: brazoiz_d3_iz_1_topo
+      parentName: brazoiz_d3_iz_0_topo
+      position: {x: -0.076600835, y: -0.000000019177877, z: 0.0000000034286896}
+      rotation: {x: 0.000000089406925, y: 0.000000022351731, z: 0.078460015, w: 0.99691725}
+      scale: {x: 1.0000005, y: 1.0000001, z: 0.99999994}
+    - name: brazoiz_d3_iz_2_topo
+      parentName: brazoiz_d3_iz_1_topo
+      position: {x: -0.06873394, y: 0.000000009309949, z: -0.000000002137412}
+      rotation: {x: -0.00000002330849, y: 0.000000010267356, z: 0.09294755, w: 0.99567103}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000004}
+    - name: brazoiz_d3_iz_fin_topo
+      parentName: brazoiz_d3_iz_2_topo
+      position: {x: -0.053715926, y: -5.684342e-16, z: 3.5527136e-17}
+      rotation: {x: -0.000000035810224, y: 0.00000005232604, z: -0.5422539, w: 0.84021467}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: brazoiz_d4_iz_0_topo
+      parentName: brazoiz_mano_iz_topo
+      position: {x: -0.12510565, y: -0.012342227, z: -0.05256097}
+      rotation: {x: -0.036654934, y: -0.029774059, z: 0.124446034, w: 0.991102}
+      scale: {x: 0.99999976, y: 1.0000002, z: 1.0000002}
+    - name: brazoiz_d4_iz_1_topo
+      parentName: brazoiz_d4_iz_0_topo
+      position: {x: -0.06558706, y: -9.287157e-10, z: -5.4425314e-10}
+      rotation: {x: 0.000000029802312, y: 0.000000024214378, z: 0.08375124, w: 0.99648666}
+      scale: {x: 1.0000004, y: 1.0000011, z: 1.0000007}
+    - name: brazoiz_d4_iz_2_topo
+      parentName: brazoiz_d4_iz_1_topo
+      position: {x: -0.0513051, y: -0.000000015692105, z: -0.0000000038138888}
+      rotation: {x: 0.00000013860804, y: 0.000000022213433, z: 0.06788592, w: 0.9976932}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: brazoiz_d4_iz_fin_topo
+      parentName: brazoiz_d4_iz_2_topo
+      position: {x: -0.042814262, y: 0, z: 7.105427e-17}
+      rotation: {x: -0.00000013250398, y: 0.00000001271362, z: -0.5422541, w: 0.8402146}
+      scale: {x: 1.0000006, y: 1.0000001, z: 0.99999994}
+    - name: tronco_omoplato_de_topo
+      parentName: tronco_pecho_topo
+      position: {x: -0.10707114, y: 0.08308122, z: 0.0754194}
+      rotation: {x: -0.42978135, y: -0.5622191, z: -0.5487361, w: 0.44506896}
+      scale: {x: 1.0000002, y: 1.0000012, z: 1.0000013}
+    - name: brazode_brazo_de_topo
+      parentName: tronco_omoplato_de_topo
+      position: {x: 0.19825888, y: -0.000000244102, z: -0.00000023963736}
+      rotation: {x: 0.005936695, y: 0.03158923, z: 0.1454538, w: 0.9888428}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000013}
+    - name: brazode_antebrazo_de_topo
+      parentName: brazode_brazo_de_topo
+      position: {x: 0.27609476, y: -0.00000038896505, z: 0.017955732}
+      rotation: {x: -0.0005917425, y: 0.14152053, z: -0.00926989, w: 0.9898917}
+      scale: {x: 1.0000006, y: 1.000001, z: 1.0000007}
+    - name: brazode_mano_de_topo
+      parentName: brazode_antebrazo_de_topo
+      position: {x: 0.17812316, y: 0.00000028109145, z: -0.0000002202182}
+      rotation: {x: 0.066453576, y: -0.10995912, z: -0.044548385, w: 0.99071103}
+      scale: {x: 1.000001, y: 0.99999994, z: 1}
+    - name: brazode_d1_de_0_topo
+      parentName: brazode_mano_de_topo
+      position: {x: 0.02911562, y: 0.05509109, z: -0.051546022}
+      rotation: {x: 0.5357035, y: 0.43190303, z: -0.10057496, w: 0.7185863}
+      scale: {x: 1, y: 1.000001, z: 1.000001}
+    - name: brazode_d1_de_1_topo
+      parentName: brazode_d1_de_0_topo
+      position: {x: 0.059586138, y: 0.00000022981042, z: 0.00000044993826}
+      rotation: {x: 0.00000017881385, y: 0.000000059604616, z: -0.2544052, w: -0.96709776}
+      scale: {x: 1.0000005, y: 1.0000012, z: 1.0000011}
+    - name: brazode_d1_de_2_topo
+      parentName: brazode_d1_de_1_topo
+      position: {x: 0.042221617, y: 0.000000042147658, z: -0.00000087240977}
+      rotation: {x: 0.00000019271933, y: -0.0000000065508217, z: 0.25060377, w: 0.96808976}
+      scale: {x: 0.9999995, y: 1, z: 0.9999999}
+    - name: brazode_d1_de_fin_topo
+      parentName: brazode_d1_de_2_topo
+      position: {x: 0.05371573, y: 0.000000029170057, z: 0.00000044142772}
+      rotation: {x: 0.00000029352867, y: 0.00000006925384, z: 0.54225415, w: -0.8402145}
+      scale: {x: 1.0000004, y: 0.9999998, z: 0.9999999}
+    - name: brazode_d2_de_0_topo
+      parentName: brazode_mano_de_topo
+      position: {x: 0.13576017, y: -0.00047291376, z: -0.052268}
+      rotation: {x: -0.03594239, y: -0.028426317, z: 0.1178192, w: 0.9919772}
+      scale: {x: 0.99999964, y: 1.0000005, z: 1.0000006}
+    - name: brazode_d2_de_1_topo
+      parentName: brazode_d2_de_0_topo
+      position: {x: 0.06353901, y: 0.0000002608601, z: 0.00000013937817}
+      rotation: {x: 0.00000006332992, y: -0.000000044703473, z: 0.09465605, w: 0.9955101}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: brazode_d2_de_2_topo
+      parentName: brazode_d2_de_1_topo
+      position: {x: 0.05729165, y: 0.00000040330158, z: -0.0000000835251}
+      rotation: {x: -0.0000000067124244, y: 0.000000040035584, z: 0.09294786, w: 0.995671}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: brazode_d2_de_fin_topo
+      parentName: brazode_d2_de_2_topo
+      position: {x: 0.053716283, y: -0.00000041970517, z: -0.000000004029681}
+      rotation: {x: 0.0000000037567207, y: -0.00000010889546, z: -0.54225385, w: 0.8402148}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000005}
+    - name: brazode_d3_de_0_topo
+      parentName: brazode_mano_de_topo
+      position: {x: 0.13532852, y: 0.00000029191042, z: 0.00000067943813}
+      rotation: {x: -0.049366947, y: -0.034930494, z: 0.12978554, w: 0.9896962}
+      scale: {x: 0.99999964, y: 1.0000012, z: 1.0000014}
+    - name: brazode_d3_de_1_topo
+      parentName: brazode_d3_de_0_topo
+      position: {x: 0.07660054, y: -0.00000047639023, z: -0.00000028834228}
+      rotation: {x: 0.00000008940694, y: 0.000000033527602, z: 0.0784602, w: 0.99691725}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000007}
+    - name: brazode_d3_de_2_topo
+      parentName: brazode_d3_de_1_topo
+      position: {x: 0.06873444, y: 0.00000013290472, z: 0.000000114808145}
+      rotation: {x: -0.00000007837956, y: -0.000000011507529, z: 0.09294753, w: 0.99567103}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.999999}
+    - name: brazode_d3_de_fin_topo
+      parentName: brazode_d3_de_2_topo
+      position: {x: 0.05371505, y: 0.0000003848204, z: -0.0000004010427}
+      rotation: {x: 0.00000013469607, y: 0.000000041496808, z: -0.542254, w: 0.8402147}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.0000013}
+    - name: brazode_d4_de_0_topo
+      parentName: brazode_mano_de_topo
+      position: {x: 0.12510501, y: 0.012342836, z: 0.052561272}
+      rotation: {x: -0.036654927, y: -0.029773712, z: 0.12445051, w: 0.99110144}
+      scale: {x: 1, y: 1.000001, z: 1.0000011}
+    - name: brazode_d4_de_1_topo
+      parentName: brazode_d4_de_0_topo
+      position: {x: 0.065587275, y: -0.00000043763796, z: 0.000000018323279}
+      rotation: {x: -0.000000018626444, y: 0.000000024214378, z: 0.08375126, w: 0.9964867}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000005}
+    - name: brazode_d4_de_2_topo
+      parentName: brazode_d4_de_1_topo
+      position: {x: 0.051305026, y: -0.00000026398746, z: 0.00000039107124}
+      rotation: {x: 0.00000012465233, y: 0.00000007990194, z: 0.06788563, w: 0.9976932}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000006}
+    - name: brazode_d4_de_fin_topo
+      parentName: brazode_d4_de_2_topo
+      position: {x: 0.04281399, y: 0.00000031534563, z: 0.000000049011064}
+      rotation: {x: 0.00000007152898, y: -0.000000102094894, z: -0.5422539, w: 0.84021467}
+      scale: {x: 1.0000002, y: 1.000001, z: 1.0000012}
+    - name: piernaiz_pierna_iz_topo
+      parentName: tronco_cadera_topo
+      position: {x: -0.16942127, y: -0.02370426, z: 0.0015940978}
+      rotation: {x: 0.3987189, y: 0.583972, z: 0.37656373, w: 0.5984979}
+      scale: {x: 1.0000005, y: 0.9999998, z: 1.0000005}
+    - name: piernaiz_pantorrilla_iz_topo
+      parentName: piernaiz_pierna_iz_topo
+      position: {x: -0.16965444, y: -0.00000000971857, z: 2.0192292e-10}
+      rotation: {x: -0.000000014901159, y: -0.000000014901159, z: 0.5009391, w: 0.8654825}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: piernaiz_pie_iz_topo
+      parentName: piernaiz_pantorrilla_iz_topo
+      position: {x: -0.15874323, y: -0.000000006152352, z: -0.000000009271042}
+      rotation: {x: -0.005851197, y: -0.003288658, z: -0.27305552, w: 0.96197486}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000004}
+    - name: piernaiz_doblezpie_iz_topo
+      parentName: piernaiz_pie_iz_topo
+      position: {x: -0.13285, y: -0.0000000032830811, z: -0.0000000035274654}
+      rotation: {x: -0.0000000353974, y: 0.0000000138761616, z: -0.18624249, w: 0.9825039}
+      scale: {x: 1.0000005, y: 0.9999995, z: 1.0000004}
+    - name: piernaiz_fin_pie_iz_topo
+      parentName: piernaiz_doblezpie_iz_topo
+      position: {x: -0.18009228, y: 3.1086245e-17, z: 1.0658141e-16}
+      rotation: {x: -0.423998, y: -0.5620694, z: -0.42180064, w: 0.5713038}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: piernade_pierna_de_topo
+      parentName: tronco_cadera_topo
+      position: {x: 0.169421, y: -0.023703918, z: 0.0015944543}
+      rotation: {x: 0.5984979, y: -0.3765637, z: 0.583972, w: -0.39871886}
+      scale: {x: 0.9999999, y: 1, z: 1.0000002}
+    - name: piernade_pantorrilla_de_topo
+      parentName: piernade_pierna_de_topo
+      position: {x: 0.16965447, y: 0.0000004062256, z: -0.00000014076743}
+      rotation: {x: 0.000000059604645, y: -0.000000029802322, z: -0.500939, w: -0.86548257}
+      scale: {x: 1, y: 1, z: 1}
+    - name: piernade_pie_de_topo
+      parentName: piernade_pantorrilla_de_topo
+      position: {x: 0.15874358, y: 0.00000023489638, z: 0.0000006720876}
+      rotation: {x: 0.005851194, y: 0.0032889717, z: 0.27305508, w: -0.961975}
+      scale: {x: 1.0000008, y: 1.0000013, z: 1.0000011}
+    - name: piernade_doblezpie_de_topo
+      parentName: piernade_pie_de_topo
+      position: {x: 0.13285036, y: -0.0000001676938, z: -0.00000072289964}
+      rotation: {x: -5.449436e-10, y: 0.000000007341287, z: -0.1862426, w: 0.9825038}
+      scale: {x: 1.000001, y: 1.0000023, z: 1.0000012}
+    - name: piernade_fin_pie_de_topo
+      parentName: piernade_doblezpie_de_topo
+      position: {x: 0.18009216, y: 0.000000021781663, z: 0.0000006256289}
+      rotation: {x: -0.42399824, y: -0.5620691, z: -0.42180073, w: 0.5713038}
+      scale: {x: 1.0000001, y: 1.000001, z: 1.0000007}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 5fbdbd293ae6d3047a38ecf39c74935a,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
