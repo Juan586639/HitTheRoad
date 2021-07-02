@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: de97c1fc424e8a9498e1ca176b9763b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bk_handle
+    100004: bk_susp_child
+    100006: bk_susp_pare
+    100008: bk_suspention
+    100010: bk_wheel
+    100012: body
+    100014: Chest_J
+    100016: DirtBike_A_Handle
+    100018: DirtBike_A_Rig2
+    100020: DirtBike_A_Rig:Root
+    100022: Dirtbikes_A_Bodypart
+    100024: Dirtbikes_A_wheel_B
+    100026: Dirtbikes_A_wheel_F
+    100028: FT_wheel_Ball
+    100030: ft_wheel_suspention
+    100032: handle
+    100034: Head_geo
+    100036: Helmet_geo
+    100038: L_Ankle_J
+    100040: L_Arm_J
+    100042: L_Ball_J
+    100044: L_Clavicle_J
+    100046: L_Elbow_J
+    100048: L_Hip_J
+    100050: L_Index_01_J
+    100052: L_Index_02_J
+    100054: L_Index_03_J
+    100056: L_Knee_J
+    100058: L_Middle_01_J
+    100060: L_Middle_02_J
+    100062: L_Middle_03_J
+    100064: L_ProWrist_J
+    100066: L_Thumb_01_J
+    100068: L_Thumb_02_J
+    100070: L_Toe_J
+    100072: L_Wrist_J
+    100074: Neck_J
+    100076: Pelvis_J
+    100078: R_Ankle_J
+    100080: R_Arm_J
+    100082: R_Ball_J
+    100084: R_Clavicle_J
+    100086: R_Elbow_J
+    100088: R_Hip_J
+    100090: R_Index_01_J
+    100092: R_Index_02_J
+    100094: R_Index_03_J
+    100096: R_Knee_J
+    100098: R_Middle_01_J
+    100100: R_Middle_02_J
+    100102: R_Middle_03_J
+    100104: R_ProWrist_J
+    100106: R_Thumb_01_J
+    100108: R_Thumb_02_J
+    100110: R_Toe_J
+    100112: R_Wrist_J
+    100114: Root_J
+    100116: Spline_01_J
+    100118: Spline_02_J
+    100120: Suit_geo
+    100122: transform1
+    100124: B_axis_geo
+    100126: Body_geo
+    100128: group10
+    100130: Root
+    100132: Scissor_geo
+    100134: Tyre_a_geo
+    100136: Tyre_b_geo
+    400000: //RootNode
+    400002: bk_handle
+    400004: bk_susp_child
+    400006: bk_susp_pare
+    400008: bk_suspention
+    400010: bk_wheel
+    400012: body
+    400014: Chest_J
+    400016: DirtBike_A_Handle
+    400018: DirtBike_A_Rig2
+    400020: DirtBike_A_Rig:Root
+    400022: Dirtbikes_A_Bodypart
+    400024: Dirtbikes_A_wheel_B
+    400026: Dirtbikes_A_wheel_F
+    400028: FT_wheel_Ball
+    400030: ft_wheel_suspention
+    400032: handle
+    400034: Head_geo
+    400036: Helmet_geo
+    400038: L_Ankle_J
+    400040: L_Arm_J
+    400042: L_Ball_J
+    400044: L_Clavicle_J
+    400046: L_Elbow_J
+    400048: L_Hip_J
+    400050: L_Index_01_J
+    400052: L_Index_02_J
+    400054: L_Index_03_J
+    400056: L_Knee_J
+    400058: L_Middle_01_J
+    400060: L_Middle_02_J
+    400062: L_Middle_03_J
+    400064: L_ProWrist_J
+    400066: L_Thumb_01_J
+    400068: L_Thumb_02_J
+    400070: L_Toe_J
+    400072: L_Wrist_J
+    400074: Neck_J
+    400076: Pelvis_J
+    400078: R_Ankle_J
+    400080: R_Arm_J
+    400082: R_Ball_J
+    400084: R_Clavicle_J
+    400086: R_Elbow_J
+    400088: R_Hip_J
+    400090: R_Index_01_J
+    400092: R_Index_02_J
+    400094: R_Index_03_J
+    400096: R_Knee_J
+    400098: R_Middle_01_J
+    400100: R_Middle_02_J
+    400102: R_Middle_03_J
+    400104: R_ProWrist_J
+    400106: R_Thumb_01_J
+    400108: R_Thumb_02_J
+    400110: R_Toe_J
+    400112: R_Wrist_J
+    400114: Root_J
+    400116: Spline_01_J
+    400118: Spline_02_J
+    400120: Suit_geo
+    400122: transform1
+    400124: B_axis_geo
+    400126: Body_geo
+    400128: group10
+    400130: Root
+    400132: Scissor_geo
+    400134: Tyre_a_geo
+    400136: Tyre_b_geo
+    2100000: DirtBike_A_Rig_DirtBikeFOrRIg_onlyBikes_V5_Dirtbikes_A1
+    2100002: Default_Material
+    2100004: DirtBike_A_Rig_DirtBikeFOrRIg_onlyBikes_V5_Back_Wheel_Dirtbikes_A1
+    2100006: Head_mat
+    2100008: Suit_mat
+    2100010: Bike_mat
+    4300000: DirtBike_A_Handle
+    4300002: Dirtbikes_A_wheel_F
+    4300004: Dirtbikes_A_wheel_B
+    4300006: Dirtbikes_A_Bodypart
+    4300008: Head_geo
+    4300010: Suit_geo
+    4300012: Helmet_geo
+    4300014: Scissor_geo
+    4300016: B_axis_geo
+    4300018: Body_geo
+    4300020: Tyre_a_geo
+    4300022: Tyre_b_geo
+    7400000: StartIddle
+    7400002: StartPush
+    7400004: SpeedBarkerCross
+    7400006: HalfWheelie
+    7400008: DriveLeftAndRightSteering
+    7400010: CrashRight
+    7400012: CrashLeft
+    7400014: Iddle Acceleration
+    7400016: Left Inclination
+    7400018: Left Inclination Iddle
+    7400020: Left Inclination reverse
+    7400022: Rigth Inclination
+    7400024: Rigth Inclination Iddle
+    7400026: Rigth Inclination reverse
+    7400028: Run iddle
+    7400030: Whellie init
+    7400032: Whellie iddle
+    7400034: Whellie finish
+    7400036: Back push
+    9500000: //RootNode
+    13700000: DirtBike_A_Handle
+    13700002: Dirtbikes_A_Bodypart
+    13700004: Dirtbikes_A_wheel_B
+    13700006: Dirtbikes_A_wheel_F
+    13700008: Head_geo
+    13700010: Helmet_geo
+    13700012: Suit_geo
+    13700014: B_axis_geo
+    13700016: Body_geo
+    13700018: Scissor_geo
+    13700020: Tyre_a_geo
+    13700022: Tyre_b_geo
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: StartIddle
+      takeName: StartIddle
+      firstFrame: 31
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StartPush
+      takeName: StartPush
+      firstFrame: 192
+      lastFrame: 253
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SpeedBarkerCross
+      takeName: SpeedBarkerCross
+      firstFrame: 482
+      lastFrame: 512
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HalfWheelie
+      takeName: HalfWheelie
+      firstFrame: 938
+      lastFrame: 1052
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DriveLeftAndRightSteering
+      takeName: DriveLeftAndRightSteering
+      firstFrame: 1100
+      lastFrame: 1153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CrashRight
+      takeName: CrashRight
+      firstFrame: 1494
+      lastFrame: 1540
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CrashLeft
+      takeName: CrashLeft
+      firstFrame: 1541
+      lastFrame: 1580
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Iddle Acceleration
+      takeName: Iddle Acceleration
+      firstFrame: 522
+      lastFrame: 542
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Left Inclination
+      takeName: Left Inclination
+      firstFrame: 323
+      lastFrame: 333
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Left Inclination Iddle
+      takeName: Left Inclination Iddle
+      firstFrame: 334
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Left Inclination reverse
+      takeName: Left Inclination reverse
+      firstFrame: 371
+      lastFrame: 383
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rigth Inclination
+      takeName: Rigth Inclination
+      firstFrame: 384
+      lastFrame: 394
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rigth Inclination Iddle
+      takeName: Rigth Inclination Iddle
+      firstFrame: 395
+      lastFrame: 434
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rigth Inclination reverse
+      takeName: Rigth Inclination reverse
+      firstFrame: 435
+      lastFrame: 443
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run iddle
+      takeName: Start iddle
+      firstFrame: 253
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Whellie init
+      takeName: Whellie init
+      firstFrame: 938
+      lastFrame: 975
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Whellie iddle
+      takeName: Whellie iddle
+      firstFrame: 976
+      lastFrame: 1026
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Whellie finish
+      takeName: Whellie finish
+      firstFrame: 1027
+      lastFrame: 1052
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Back push
+      takeName: Back push iddle
+      firstFrame: 672
+      lastFrame: 713
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 1
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
