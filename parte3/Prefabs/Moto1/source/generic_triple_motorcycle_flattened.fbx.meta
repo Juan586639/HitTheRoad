@@ -1,0 +1,2501 @@
+fileFormatVersion: 2
+guid: 687cfa29ccdbcf343b9195e7e48eba42
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: abs block
+    100002: abs block fittings
+    100004: abs cable strap
+    100006: abs sensor
+    100008: abs sensor bracket
+    100010: abs sensor fastener
+    100012: adjustment_screw
+    100014: airbox
+    100016: airbox screws
+    100018: ais bolts
+    100020: banjo bolt
+    100022: banjo bolt.001
+    100024: banjo bolt.002
+    100026: banjo bolt.003
+    100028: banjo fitting
+    100030: banjo fitting.001
+    100032: bar clamps
+    100034: bar end bolts
+    100036: bar ends
+    100038: bars
+    100040: bars bolts
+    100042: battery box
+    100044: bleed nipple
+    100046: bleed nipple.001
+    100048: bolt.001
+    100050: bolt.003
+    100052: bolt.005
+    100054: bolt.006
+    100056: bolt.007
+    100058: bolt.008
+    100060: bolt.009
+    100062: boss mirror empty
+    100064: brake lever bolts
+    100066: breather
+    100068: bumper
+    100070: butterflys
+    100072: buttons
+    100074: caliper pin locator
+    100076: cam chain tensioner
+    100078: cam chain tensioner nut
+    100080: cam chain tensioner nut.007
+    100082: cam chain tensioner nut.009
+    100084: cap
+    100086: cct
+    100088: cct bolts
+    100090: chain
+    100092: chain path
+    100094: clutch actuator
+    100096: clutch cable adjuster
+    100098: clutch cable bolts
+    100100: clutch cable bracket
+    100102: clutch cable end
+    100104: clutch cable inner
+    100106: clutch cable lower
+    100108: clutch cover
+    100110: clutch cover bolts
+    100112: clutch lever
+    100114: clutch lever bolts
+    100116: clutch lever mount
+    100118: clutch lever mount bolt
+    100120: clutch pivot bolt
+    100122: clutch spring
+    100124: coilpacks
+    100126: coolant bottle guard
+    100128: coolant resovoir
+    100130: coolant resovoir cap
+    100132: countershaft
+    100134: couplings
+    100136: crank case
+    100138: crank case bolt
+    100140: cylinder bolts
+    100142: cylinder gasket
+    100144: cylinders
+    100146: drain plug
+    100148: ecu
+    100150: Empty
+    100152: Empty.001
+    100154: Empty.002
+    100156: engine mounting bolt
+    100158: engine mounts
+    100160: engine_mass
+    100162: exhaust barrel
+    100164: exhaust bolt
+    100166: exhaust mesh
+    100168: exhaust ring
+    100170: fork pinch bolt
+    100172: fork_tube
+    100174: fork_tube.002
+    100176: fork_tube.003
+    100178: fork_tube.004
+    100180: fork_tube.005
+    100182: fork_tube.006
+    100184: frame
+    100186: frame inserts
+    100188: fromt rotor inner
+    100190: front  abs sensor ring
+    100192: front abs ring bolts
+    100194: front abs ring mount
+    100196: front axle
+    100198: front brake lever
+    100200: front brake line capture
+    100202: front brake lines
+    100204: front brake master cylinder
+    100206: front brake master cylinder.001
+    100208: front brake pads
+    100210: front brake screw
+    100212: front caliper banjo bolts
+    100214: front caliper bolts
+    100216: front caliper fittings
+    100218: front calipers
+    100220: front fender
+    100222: front fender bolts
+    100224: front pad springs
+    100226: front rim
+    100228: front rotor bolts
+    100230: front rotor floating rings
+    100232: front rotor outer
+    100234: front spacer
+    100236: front tire array axis
+    100238: front tire bead
+    100240: front tire center
+    100242: front tire forward bend
+    100244: front tire side bend
+    100246: front tire surface
+    100248: front wheel array
+    100250: front wheel center
+    100252: fuel cap
+    100254: fuel cap bolts
+    100256: fuel rail assembly
+    100258: fuel rail bolts
+    100260: fuel rail cap
+    100262: fuel tank
+    100264: //RootNode
+    100266: grips
+    100268: guides
+    100270: hall sensor
+    100272: handlebar ties
+    100274: handlebars
+    100276: harness
+    100278: harness sleeve
+    100280: hazard lights
+    100282: head nut
+    100284: head stem
+    100286: header nuts
+    100288: header studs
+    100290: headers and pipe
+    100292: headlight back
+    100294: headlight bolts
+    100296: headlight boot
+    100298: headlight brackets
+    100300: headlight chin
+    100302: headlight faceplate
+    100304: headlight faceplate.001
+    100306: headlight flasher
+    100308: headlight glass
+    100310: Headlight LED Lenses
+    100312: headlight projector lenses
+    100314: headlight upper
+    100316: headlights switch
+    100318: horn button
+    100320: ignition switch
+    100322: inner link surface
+    100324: inner link surface|inner link|Dupli|
+    100326: inner link surface|inner link|Dupli|1
+    100328: inner link surface|inner link|Dupli|10
+    100330: inner link surface|inner link|Dupli|11
+    100332: inner link surface|inner link|Dupli|12
+    100334: inner link surface|inner link|Dupli|13
+    100336: inner link surface|inner link|Dupli|14
+    100338: inner link surface|inner link|Dupli|15
+    100340: inner link surface|inner link|Dupli|16
+    100342: inner link surface|inner link|Dupli|17
+    100344: inner link surface|inner link|Dupli|18
+    100346: inner link surface|inner link|Dupli|19
+    100348: inner link surface|inner link|Dupli|2
+    100350: inner link surface|inner link|Dupli|20
+    100352: inner link surface|inner link|Dupli|21
+    100354: inner link surface|inner link|Dupli|22
+    100356: inner link surface|inner link|Dupli|23
+    100358: inner link surface|inner link|Dupli|24
+    100360: inner link surface|inner link|Dupli|25
+    100362: inner link surface|inner link|Dupli|26
+    100364: inner link surface|inner link|Dupli|27
+    100366: inner link surface|inner link|Dupli|28
+    100368: inner link surface|inner link|Dupli|29
+    100370: inner link surface|inner link|Dupli|3
+    100372: inner link surface|inner link|Dupli|30
+    100374: inner link surface|inner link|Dupli|31
+    100376: inner link surface|inner link|Dupli|32
+    100378: inner link surface|inner link|Dupli|33
+    100380: inner link surface|inner link|Dupli|34
+    100382: inner link surface|inner link|Dupli|35
+    100384: inner link surface|inner link|Dupli|36
+    100386: inner link surface|inner link|Dupli|37
+    100388: inner link surface|inner link|Dupli|38
+    100390: inner link surface|inner link|Dupli|39
+    100392: inner link surface|inner link|Dupli|4
+    100394: inner link surface|inner link|Dupli|40
+    100396: inner link surface|inner link|Dupli|41
+    100398: inner link surface|inner link|Dupli|42
+    100400: inner link surface|inner link|Dupli|43
+    100402: inner link surface|inner link|Dupli|44
+    100404: inner link surface|inner link|Dupli|45
+    100406: inner link surface|inner link|Dupli|46
+    100408: inner link surface|inner link|Dupli|47
+    100410: inner link surface|inner link|Dupli|48
+    100412: inner link surface|inner link|Dupli|49
+    100414: inner link surface|inner link|Dupli|5
+    100416: inner link surface|inner link|Dupli|50
+    100418: inner link surface|inner link|Dupli|51
+    100420: inner link surface|inner link|Dupli|52
+    100422: inner link surface|inner link|Dupli|53
+    100424: inner link surface|inner link|Dupli|6
+    100426: inner link surface|inner link|Dupli|7
+    100428: inner link surface|inner link|Dupli|8
+    100430: inner link surface|inner link|Dupli|9
+    100432: instrument cluster bolts
+    100434: instruments
+    100436: instruments boot
+    100438: instruments bracket
+    100440: jacket connector
+    100442: jacket cover bolts
+    100444: kickstand
+    100446: kickstand bracket
+    100448: kickstand locator
+    100450: kickstand spring
+    100452: kickstand spring cover
+    100454: led strips
+    100456: left chain tensioner
+    100458: left controls
+    100460: left rearset
+    100462: left rearset bolt
+    100464: license plate
+    100466: lower clamps
+    100468: lower head bearings
+    100470: lower linkage bolt
+    100472: lower recievers
+    100474: lower shock bolt
+    100476: lower triple clamp bolts
+    100478: master cylinder bolts
+    100480: o2 sensor
+    100482: o2 sensor clips
+    100484: o2 sensor wire
+    100486: oil cap
+    100488: oil cooler
+    100490: oil filter
+    100492: oil pan
+    100494: oil pan bolts
+    100496: oil window
+    100498: outer link surface
+    100500: outer link surface|outer link|Dupli|
+    100502: outer link surface|outer link|Dupli|1
+    100504: outer link surface|outer link|Dupli|10
+    100506: outer link surface|outer link|Dupli|11
+    100508: outer link surface|outer link|Dupli|12
+    100510: outer link surface|outer link|Dupli|13
+    100512: outer link surface|outer link|Dupli|14
+    100514: outer link surface|outer link|Dupli|15
+    100516: outer link surface|outer link|Dupli|16
+    100518: outer link surface|outer link|Dupli|17
+    100520: outer link surface|outer link|Dupli|18
+    100522: outer link surface|outer link|Dupli|19
+    100524: outer link surface|outer link|Dupli|2
+    100526: outer link surface|outer link|Dupli|20
+    100528: outer link surface|outer link|Dupli|21
+    100530: outer link surface|outer link|Dupli|22
+    100532: outer link surface|outer link|Dupli|23
+    100534: outer link surface|outer link|Dupli|24
+    100536: outer link surface|outer link|Dupli|25
+    100538: outer link surface|outer link|Dupli|26
+    100540: outer link surface|outer link|Dupli|27
+    100542: outer link surface|outer link|Dupli|28
+    100544: outer link surface|outer link|Dupli|29
+    100546: outer link surface|outer link|Dupli|3
+    100548: outer link surface|outer link|Dupli|30
+    100550: outer link surface|outer link|Dupli|31
+    100552: outer link surface|outer link|Dupli|32
+    100554: outer link surface|outer link|Dupli|33
+    100556: outer link surface|outer link|Dupli|34
+    100558: outer link surface|outer link|Dupli|35
+    100560: outer link surface|outer link|Dupli|36
+    100562: outer link surface|outer link|Dupli|37
+    100564: outer link surface|outer link|Dupli|38
+    100566: outer link surface|outer link|Dupli|39
+    100568: outer link surface|outer link|Dupli|4
+    100570: outer link surface|outer link|Dupli|40
+    100572: outer link surface|outer link|Dupli|41
+    100574: outer link surface|outer link|Dupli|42
+    100576: outer link surface|outer link|Dupli|43
+    100578: outer link surface|outer link|Dupli|44
+    100580: outer link surface|outer link|Dupli|45
+    100582: outer link surface|outer link|Dupli|46
+    100584: outer link surface|outer link|Dupli|47
+    100586: outer link surface|outer link|Dupli|48
+    100588: outer link surface|outer link|Dupli|49
+    100590: outer link surface|outer link|Dupli|5
+    100592: outer link surface|outer link|Dupli|50
+    100594: outer link surface|outer link|Dupli|51
+    100596: outer link surface|outer link|Dupli|52
+    100598: outer link surface|outer link|Dupli|6
+    100600: outer link surface|outer link|Dupli|7
+    100602: outer link surface|outer link|Dupli|8
+    100604: outer link surface|outer link|Dupli|9
+    100606: outer link.032
+    100608: overflows
+    100610: passenger pegs
+    100612: passenger sets
+    100614: pegs
+    100616: pillian sets bolts
+    100618: piston chrome
+    100620: plate bracket
+    100622: projector backlights
+    100624: quick shift lever
+    100626: quickshift wire
+    100628: quickshifter ties
+    100630: radiator bolts
+    100632: radiator cap
+    100634: radiator clamps
+    100636: radiator fan
+    100638: radiator hoses
+    100640: radiator overflow
+    100642: raditator
+    100644: raditator brackets
+    100646: reach adjuster
+    100648: reach adjuster.001
+    100650: rear abs bolts
+    100652: rear abs cable grommet
+    100654: rear abs ring spacers
+    100656: rear abs sensor bolt
+    100658: rear abs sensor cable
+    100660: rear abs sensor pivot
+    100662: rear abs sensor ring
+    100664: rear axle assembly
+    100666: rear brake fluid
+    100668: rear brake fluid resovoir
+    100670: rear brake fluid resovoir bracket
+    100672: rear brake fluid resovoir.001
+    100674: rear brake line capture
+    100676: rear brake lines
+    100678: rear brake lines strap
+    100680: rear brake lines.001
+    100682: rear brake pads
+    100684: rear brake pedal
+    100686: rear brake pedal linkage
+    100688: rear caliper
+    100690: rear caliper bolts
+    100692: rear caliper mount
+    100694: rear caliper piston
+    100696: rear fluid resovoir screw
+    100698: rear hugger
+    100700: rear hugger bolts
+    100702: rear master cylinder
+    100704: rear rotor
+    100706: rear rotor bolts
+    100708: rear signal wires
+    100710: rear sprocket
+    100712: rear tire array axis
+    100714: rear tire bead
+    100716: rear tire center
+    100718: rear tire forward bend
+    100720: rear tire side bend
+    100722: rear tire surface
+    100724: rear turn signal
+    100726: rear turn signal lens
+    100728: rear turn signal lens.001
+    100730: rear turn signal.001
+    100732: rear wheel adjusters
+    100734: rear wheel array
+    100736: rear wheel center
+    100738: rear wheel geometry
+    100740: rear wheel spacer left
+    100742: rear wheel spacer right
+    100744: rectifier
+    100746: rectifier bolts
+    100748: regulator connectors
+    100750: ride mode
+    100752: right chain tensioner
+    100754: right controls
+    100756: right rearset
+    100758: right side head cables
+    100760: right side head wires
+    100762: rough_swingarn
+    100764: rubber couplers
+    100766: scoop bolts
+    100768: scoops
+    100770: screws
+    100772: seat
+    100774: shift actuator
+    100776: shift spindle
+    100778: shifter
+    100780: shock base
+    100782: shock linkage
+    100784: shock mount bolts
+    100786: shock spring
+    100788: shock tip
+    100790: sprocket
+    100792: sprocket cover
+    100794: sprocket cover bolts
+    100796: sprocket nuts
+    100798: sprocket studs
+    100800: starter cable
+    100802: starter kill switch
+    100804: starter motor
+    100806: stator cover
+    100808: stator cover bolts
+    100810: subframe
+    100812: subframe bolts
+    100814: subframe cover
+    100816: swingarm linkage
+    100818: swingarm pivot
+    100820: Symmetry
+    100822: tail light
+    100824: tail light glass
+    100826: tail light LEDs
+    100828: tail light reflector
+    100830: tail_plastics
+    100832: tank dressing
+    100834: tank front trim
+    100836: tank front trim fasteners
+    100838: tank sides
+    100840: thermostat
+    100842: throttle bodies
+    100844: throttle body air hoses
+    100846: throttle body cap
+    100848: throttle cable adjusters
+    100850: throttle cable pulley
+    100852: throttle cables
+    100854: throttle cables bolts
+    100856: throttle cables boot
+    100858: throttle cables housing
+    100860: throttle cables inner
+    100862: throttle motor gearbox
+    100864: throttle motor gearbox bolts
+    100866: timing cover
+    100868: timing cover bolts
+    100870: top head bearings
+    100872: tps
+    100874: tps bolts
+    100876: tps bolts.001
+    100878: tps.001
+    100880: traction control switch
+    100882: turn signal switch
+    100884: undertail bolt
+    100886: undertail bolt.001
+    100888: undertail bolt.003
+    100890: upper clamps
+    100892: upper linkage bolt
+    100894: upper shock bolt
+    100896: upper triple clamp bolts
+    100898: vacuum sensor bracket
+    100900: vacuum sensor screws
+    100902: vacuum sensors
+    100904: valve cover
+    100906: valve cover bolts
+    100908: valve cover gasket
+    100910: valve stem
+    100912: valve stem.001
+    100914: washer
+    100916: water pump bolts
+    100918: water pump cover
+    400000: abs block
+    400002: abs block fittings
+    400004: abs cable strap
+    400006: abs sensor
+    400008: abs sensor bracket
+    400010: abs sensor fastener
+    400012: adjustment_screw
+    400014: airbox
+    400016: airbox screws
+    400018: ais bolts
+    400020: banjo bolt
+    400022: banjo bolt.001
+    400024: banjo bolt.002
+    400026: banjo bolt.003
+    400028: banjo fitting
+    400030: banjo fitting.001
+    400032: bar clamps
+    400034: bar end bolts
+    400036: bar ends
+    400038: bars
+    400040: bars bolts
+    400042: battery box
+    400044: bleed nipple
+    400046: bleed nipple.001
+    400048: bolt.001
+    400050: bolt.003
+    400052: bolt.005
+    400054: bolt.006
+    400056: bolt.007
+    400058: bolt.008
+    400060: bolt.009
+    400062: boss mirror empty
+    400064: brake lever bolts
+    400066: breather
+    400068: bumper
+    400070: butterflys
+    400072: buttons
+    400074: caliper pin locator
+    400076: cam chain tensioner
+    400078: cam chain tensioner nut
+    400080: cam chain tensioner nut.007
+    400082: cam chain tensioner nut.009
+    400084: cap
+    400086: cct
+    400088: cct bolts
+    400090: chain
+    400092: chain path
+    400094: clutch actuator
+    400096: clutch cable adjuster
+    400098: clutch cable bolts
+    400100: clutch cable bracket
+    400102: clutch cable end
+    400104: clutch cable inner
+    400106: clutch cable lower
+    400108: clutch cover
+    400110: clutch cover bolts
+    400112: clutch lever
+    400114: clutch lever bolts
+    400116: clutch lever mount
+    400118: clutch lever mount bolt
+    400120: clutch pivot bolt
+    400122: clutch spring
+    400124: coilpacks
+    400126: coolant bottle guard
+    400128: coolant resovoir
+    400130: coolant resovoir cap
+    400132: countershaft
+    400134: couplings
+    400136: crank case
+    400138: crank case bolt
+    400140: cylinder bolts
+    400142: cylinder gasket
+    400144: cylinders
+    400146: drain plug
+    400148: ecu
+    400150: Empty
+    400152: Empty.001
+    400154: Empty.002
+    400156: engine mounting bolt
+    400158: engine mounts
+    400160: engine_mass
+    400162: exhaust barrel
+    400164: exhaust bolt
+    400166: exhaust mesh
+    400168: exhaust ring
+    400170: fork pinch bolt
+    400172: fork_tube
+    400174: fork_tube.002
+    400176: fork_tube.003
+    400178: fork_tube.004
+    400180: fork_tube.005
+    400182: fork_tube.006
+    400184: frame
+    400186: frame inserts
+    400188: fromt rotor inner
+    400190: front  abs sensor ring
+    400192: front abs ring bolts
+    400194: front abs ring mount
+    400196: front axle
+    400198: front brake lever
+    400200: front brake line capture
+    400202: front brake lines
+    400204: front brake master cylinder
+    400206: front brake master cylinder.001
+    400208: front brake pads
+    400210: front brake screw
+    400212: front caliper banjo bolts
+    400214: front caliper bolts
+    400216: front caliper fittings
+    400218: front calipers
+    400220: front fender
+    400222: front fender bolts
+    400224: front pad springs
+    400226: front rim
+    400228: front rotor bolts
+    400230: front rotor floating rings
+    400232: front rotor outer
+    400234: front spacer
+    400236: front tire array axis
+    400238: front tire bead
+    400240: front tire center
+    400242: front tire forward bend
+    400244: front tire side bend
+    400246: front tire surface
+    400248: front wheel array
+    400250: front wheel center
+    400252: fuel cap
+    400254: fuel cap bolts
+    400256: fuel rail assembly
+    400258: fuel rail bolts
+    400260: fuel rail cap
+    400262: fuel tank
+    400264: //RootNode
+    400266: grips
+    400268: guides
+    400270: hall sensor
+    400272: handlebar ties
+    400274: handlebars
+    400276: harness
+    400278: harness sleeve
+    400280: hazard lights
+    400282: head nut
+    400284: head stem
+    400286: header nuts
+    400288: header studs
+    400290: headers and pipe
+    400292: headlight back
+    400294: headlight bolts
+    400296: headlight boot
+    400298: headlight brackets
+    400300: headlight chin
+    400302: headlight faceplate
+    400304: headlight faceplate.001
+    400306: headlight flasher
+    400308: headlight glass
+    400310: Headlight LED Lenses
+    400312: headlight projector lenses
+    400314: headlight upper
+    400316: headlights switch
+    400318: horn button
+    400320: ignition switch
+    400322: inner link surface
+    400324: inner link surface|inner link|Dupli|
+    400326: inner link surface|inner link|Dupli|1
+    400328: inner link surface|inner link|Dupli|10
+    400330: inner link surface|inner link|Dupli|11
+    400332: inner link surface|inner link|Dupli|12
+    400334: inner link surface|inner link|Dupli|13
+    400336: inner link surface|inner link|Dupli|14
+    400338: inner link surface|inner link|Dupli|15
+    400340: inner link surface|inner link|Dupli|16
+    400342: inner link surface|inner link|Dupli|17
+    400344: inner link surface|inner link|Dupli|18
+    400346: inner link surface|inner link|Dupli|19
+    400348: inner link surface|inner link|Dupli|2
+    400350: inner link surface|inner link|Dupli|20
+    400352: inner link surface|inner link|Dupli|21
+    400354: inner link surface|inner link|Dupli|22
+    400356: inner link surface|inner link|Dupli|23
+    400358: inner link surface|inner link|Dupli|24
+    400360: inner link surface|inner link|Dupli|25
+    400362: inner link surface|inner link|Dupli|26
+    400364: inner link surface|inner link|Dupli|27
+    400366: inner link surface|inner link|Dupli|28
+    400368: inner link surface|inner link|Dupli|29
+    400370: inner link surface|inner link|Dupli|3
+    400372: inner link surface|inner link|Dupli|30
+    400374: inner link surface|inner link|Dupli|31
+    400376: inner link surface|inner link|Dupli|32
+    400378: inner link surface|inner link|Dupli|33
+    400380: inner link surface|inner link|Dupli|34
+    400382: inner link surface|inner link|Dupli|35
+    400384: inner link surface|inner link|Dupli|36
+    400386: inner link surface|inner link|Dupli|37
+    400388: inner link surface|inner link|Dupli|38
+    400390: inner link surface|inner link|Dupli|39
+    400392: inner link surface|inner link|Dupli|4
+    400394: inner link surface|inner link|Dupli|40
+    400396: inner link surface|inner link|Dupli|41
+    400398: inner link surface|inner link|Dupli|42
+    400400: inner link surface|inner link|Dupli|43
+    400402: inner link surface|inner link|Dupli|44
+    400404: inner link surface|inner link|Dupli|45
+    400406: inner link surface|inner link|Dupli|46
+    400408: inner link surface|inner link|Dupli|47
+    400410: inner link surface|inner link|Dupli|48
+    400412: inner link surface|inner link|Dupli|49
+    400414: inner link surface|inner link|Dupli|5
+    400416: inner link surface|inner link|Dupli|50
+    400418: inner link surface|inner link|Dupli|51
+    400420: inner link surface|inner link|Dupli|52
+    400422: inner link surface|inner link|Dupli|53
+    400424: inner link surface|inner link|Dupli|6
+    400426: inner link surface|inner link|Dupli|7
+    400428: inner link surface|inner link|Dupli|8
+    400430: inner link surface|inner link|Dupli|9
+    400432: instrument cluster bolts
+    400434: instruments
+    400436: instruments boot
+    400438: instruments bracket
+    400440: jacket connector
+    400442: jacket cover bolts
+    400444: kickstand
+    400446: kickstand bracket
+    400448: kickstand locator
+    400450: kickstand spring
+    400452: kickstand spring cover
+    400454: led strips
+    400456: left chain tensioner
+    400458: left controls
+    400460: left rearset
+    400462: left rearset bolt
+    400464: license plate
+    400466: lower clamps
+    400468: lower head bearings
+    400470: lower linkage bolt
+    400472: lower recievers
+    400474: lower shock bolt
+    400476: lower triple clamp bolts
+    400478: master cylinder bolts
+    400480: o2 sensor
+    400482: o2 sensor clips
+    400484: o2 sensor wire
+    400486: oil cap
+    400488: oil cooler
+    400490: oil filter
+    400492: oil pan
+    400494: oil pan bolts
+    400496: oil window
+    400498: outer link surface
+    400500: outer link surface|outer link|Dupli|
+    400502: outer link surface|outer link|Dupli|1
+    400504: outer link surface|outer link|Dupli|10
+    400506: outer link surface|outer link|Dupli|11
+    400508: outer link surface|outer link|Dupli|12
+    400510: outer link surface|outer link|Dupli|13
+    400512: outer link surface|outer link|Dupli|14
+    400514: outer link surface|outer link|Dupli|15
+    400516: outer link surface|outer link|Dupli|16
+    400518: outer link surface|outer link|Dupli|17
+    400520: outer link surface|outer link|Dupli|18
+    400522: outer link surface|outer link|Dupli|19
+    400524: outer link surface|outer link|Dupli|2
+    400526: outer link surface|outer link|Dupli|20
+    400528: outer link surface|outer link|Dupli|21
+    400530: outer link surface|outer link|Dupli|22
+    400532: outer link surface|outer link|Dupli|23
+    400534: outer link surface|outer link|Dupli|24
+    400536: outer link surface|outer link|Dupli|25
+    400538: outer link surface|outer link|Dupli|26
+    400540: outer link surface|outer link|Dupli|27
+    400542: outer link surface|outer link|Dupli|28
+    400544: outer link surface|outer link|Dupli|29
+    400546: outer link surface|outer link|Dupli|3
+    400548: outer link surface|outer link|Dupli|30
+    400550: outer link surface|outer link|Dupli|31
+    400552: outer link surface|outer link|Dupli|32
+    400554: outer link surface|outer link|Dupli|33
+    400556: outer link surface|outer link|Dupli|34
+    400558: outer link surface|outer link|Dupli|35
+    400560: outer link surface|outer link|Dupli|36
+    400562: outer link surface|outer link|Dupli|37
+    400564: outer link surface|outer link|Dupli|38
+    400566: outer link surface|outer link|Dupli|39
+    400568: outer link surface|outer link|Dupli|4
+    400570: outer link surface|outer link|Dupli|40
+    400572: outer link surface|outer link|Dupli|41
+    400574: outer link surface|outer link|Dupli|42
+    400576: outer link surface|outer link|Dupli|43
+    400578: outer link surface|outer link|Dupli|44
+    400580: outer link surface|outer link|Dupli|45
+    400582: outer link surface|outer link|Dupli|46
+    400584: outer link surface|outer link|Dupli|47
+    400586: outer link surface|outer link|Dupli|48
+    400588: outer link surface|outer link|Dupli|49
+    400590: outer link surface|outer link|Dupli|5
+    400592: outer link surface|outer link|Dupli|50
+    400594: outer link surface|outer link|Dupli|51
+    400596: outer link surface|outer link|Dupli|52
+    400598: outer link surface|outer link|Dupli|6
+    400600: outer link surface|outer link|Dupli|7
+    400602: outer link surface|outer link|Dupli|8
+    400604: outer link surface|outer link|Dupli|9
+    400606: outer link.032
+    400608: overflows
+    400610: passenger pegs
+    400612: passenger sets
+    400614: pegs
+    400616: pillian sets bolts
+    400618: piston chrome
+    400620: plate bracket
+    400622: projector backlights
+    400624: quick shift lever
+    400626: quickshift wire
+    400628: quickshifter ties
+    400630: radiator bolts
+    400632: radiator cap
+    400634: radiator clamps
+    400636: radiator fan
+    400638: radiator hoses
+    400640: radiator overflow
+    400642: raditator
+    400644: raditator brackets
+    400646: reach adjuster
+    400648: reach adjuster.001
+    400650: rear abs bolts
+    400652: rear abs cable grommet
+    400654: rear abs ring spacers
+    400656: rear abs sensor bolt
+    400658: rear abs sensor cable
+    400660: rear abs sensor pivot
+    400662: rear abs sensor ring
+    400664: rear axle assembly
+    400666: rear brake fluid
+    400668: rear brake fluid resovoir
+    400670: rear brake fluid resovoir bracket
+    400672: rear brake fluid resovoir.001
+    400674: rear brake line capture
+    400676: rear brake lines
+    400678: rear brake lines strap
+    400680: rear brake lines.001
+    400682: rear brake pads
+    400684: rear brake pedal
+    400686: rear brake pedal linkage
+    400688: rear caliper
+    400690: rear caliper bolts
+    400692: rear caliper mount
+    400694: rear caliper piston
+    400696: rear fluid resovoir screw
+    400698: rear hugger
+    400700: rear hugger bolts
+    400702: rear master cylinder
+    400704: rear rotor
+    400706: rear rotor bolts
+    400708: rear signal wires
+    400710: rear sprocket
+    400712: rear tire array axis
+    400714: rear tire bead
+    400716: rear tire center
+    400718: rear tire forward bend
+    400720: rear tire side bend
+    400722: rear tire surface
+    400724: rear turn signal
+    400726: rear turn signal lens
+    400728: rear turn signal lens.001
+    400730: rear turn signal.001
+    400732: rear wheel adjusters
+    400734: rear wheel array
+    400736: rear wheel center
+    400738: rear wheel geometry
+    400740: rear wheel spacer left
+    400742: rear wheel spacer right
+    400744: rectifier
+    400746: rectifier bolts
+    400748: regulator connectors
+    400750: ride mode
+    400752: right chain tensioner
+    400754: right controls
+    400756: right rearset
+    400758: right side head cables
+    400760: right side head wires
+    400762: rough_swingarn
+    400764: rubber couplers
+    400766: scoop bolts
+    400768: scoops
+    400770: screws
+    400772: seat
+    400774: shift actuator
+    400776: shift spindle
+    400778: shifter
+    400780: shock base
+    400782: shock linkage
+    400784: shock mount bolts
+    400786: shock spring
+    400788: shock tip
+    400790: sprocket
+    400792: sprocket cover
+    400794: sprocket cover bolts
+    400796: sprocket nuts
+    400798: sprocket studs
+    400800: starter cable
+    400802: starter kill switch
+    400804: starter motor
+    400806: stator cover
+    400808: stator cover bolts
+    400810: subframe
+    400812: subframe bolts
+    400814: subframe cover
+    400816: swingarm linkage
+    400818: swingarm pivot
+    400820: Symmetry
+    400822: tail light
+    400824: tail light glass
+    400826: tail light LEDs
+    400828: tail light reflector
+    400830: tail_plastics
+    400832: tank dressing
+    400834: tank front trim
+    400836: tank front trim fasteners
+    400838: tank sides
+    400840: thermostat
+    400842: throttle bodies
+    400844: throttle body air hoses
+    400846: throttle body cap
+    400848: throttle cable adjusters
+    400850: throttle cable pulley
+    400852: throttle cables
+    400854: throttle cables bolts
+    400856: throttle cables boot
+    400858: throttle cables housing
+    400860: throttle cables inner
+    400862: throttle motor gearbox
+    400864: throttle motor gearbox bolts
+    400866: timing cover
+    400868: timing cover bolts
+    400870: top head bearings
+    400872: tps
+    400874: tps bolts
+    400876: tps bolts.001
+    400878: tps.001
+    400880: traction control switch
+    400882: turn signal switch
+    400884: undertail bolt
+    400886: undertail bolt.001
+    400888: undertail bolt.003
+    400890: upper clamps
+    400892: upper linkage bolt
+    400894: upper shock bolt
+    400896: upper triple clamp bolts
+    400898: vacuum sensor bracket
+    400900: vacuum sensor screws
+    400902: vacuum sensors
+    400904: valve cover
+    400906: valve cover bolts
+    400908: valve cover gasket
+    400910: valve stem
+    400912: valve stem.001
+    400914: washer
+    400916: water pump bolts
+    400918: water pump cover
+    2100000: Aluminum
+    2100002: Black Plastic
+    2100004: Shiny Metal
+    2100006: Electrical
+    2100008: Dull Metal
+    2100010: Throttle Cables
+    2100012: Brass
+    2100014: Black Rubber
+    2100016: Dark Metal
+    2100018: Dark Shiny
+    2100020: Flat Black Paint
+    2100022: Clutch Cable
+    2100024: Coolant Bottle
+    2100026: Black Paint
+    2100028: Engine Gray Rough
+    2100030: Engine Bronze
+    2100032: Engine Bolt
+    2100034: Engine Gray Smooth
+    2100036: Headers
+    2100038: No Name
+    2100040: Chain Rollers
+    2100042: Chain Outer Plates
+    2100044: Chain Inner Plates
+    2100046: Black Powder Coating
+    2100048: Glass
+    2100050: Paint
+    2100052: Chrome
+    2100054: Seat
+    2100056: Material.004
+    2100058: Tires
+    2100060: Wheels
+    2100062: Black Dull Metal
+    2100064: Shock Coil
+    2100066: Brake Fluid
+    2100068: Banjo Bolt
+    2100070: Brake Pads
+    2100072: Milky Plastic
+    2100074: Anodized
+    2100076: Black Plastic Shiny
+    2100078: Red Plastic Shiny
+    2100080: Headlight Casing
+    2100082: Projector Source
+    2100084: White PCB
+    2100086: SMD LED
+    2100088: SMD LED Center
+    2100090: Caliper Spring
+    2100092: Forks
+    2300000: abs block
+    2300002: abs block fittings
+    2300004: abs cable strap
+    2300006: abs sensor
+    2300008: abs sensor bracket
+    2300010: abs sensor fastener
+    2300012: adjustment_screw
+    2300014: airbox
+    2300016: airbox screws
+    2300018: ais bolts
+    2300020: banjo bolt
+    2300022: banjo bolt.001
+    2300024: banjo bolt.002
+    2300026: banjo bolt.003
+    2300028: banjo fitting
+    2300030: banjo fitting.001
+    2300032: bar clamps
+    2300034: bar end bolts
+    2300036: bar ends
+    2300038: bars bolts
+    2300040: battery box
+    2300042: bleed nipple
+    2300044: bleed nipple.001
+    2300046: bolt.001
+    2300048: bolt.003
+    2300050: bolt.005
+    2300052: bolt.006
+    2300054: bolt.007
+    2300056: bolt.008
+    2300058: bolt.009
+    2300060: brake lever bolts
+    2300062: breather
+    2300064: bumper
+    2300066: butterflys
+    2300068: buttons
+    2300070: caliper pin locator
+    2300072: cam chain tensioner
+    2300074: cam chain tensioner nut
+    2300076: cam chain tensioner nut.007
+    2300078: cam chain tensioner nut.009
+    2300080: cap
+    2300082: cct
+    2300084: cct bolts
+    2300086: chain
+    2300088: chain path
+    2300090: clutch actuator
+    2300092: clutch cable adjuster
+    2300094: clutch cable bolts
+    2300096: clutch cable bracket
+    2300098: clutch cable end
+    2300100: clutch cable inner
+    2300102: clutch cable lower
+    2300104: clutch cover
+    2300106: clutch cover bolts
+    2300108: clutch lever
+    2300110: clutch lever bolts
+    2300112: clutch lever mount
+    2300114: clutch lever mount bolt
+    2300116: clutch pivot bolt
+    2300118: clutch spring
+    2300120: coilpacks
+    2300122: coolant bottle guard
+    2300124: coolant resovoir
+    2300126: coolant resovoir cap
+    2300128: countershaft
+    2300130: couplings
+    2300132: crank case
+    2300134: crank case bolt
+    2300136: cylinder bolts
+    2300138: cylinder gasket
+    2300140: cylinders
+    2300142: drain plug
+    2300144: ecu
+    2300146: engine mounting bolt
+    2300148: engine mounts
+    2300150: exhaust barrel
+    2300152: exhaust bolt
+    2300154: exhaust mesh
+    2300156: exhaust ring
+    2300158: fork pinch bolt
+    2300160: fork_tube
+    2300162: fork_tube.002
+    2300164: fork_tube.003
+    2300166: fork_tube.004
+    2300168: fork_tube.005
+    2300170: fork_tube.006
+    2300172: frame
+    2300174: frame inserts
+    2300176: fromt rotor inner
+    2300178: front  abs sensor ring
+    2300180: front abs ring bolts
+    2300182: front abs ring mount
+    2300184: front axle
+    2300186: front brake lever
+    2300188: front brake line capture
+    2300190: front brake lines
+    2300192: front brake master cylinder
+    2300194: front brake master cylinder.001
+    2300196: front brake pads
+    2300198: front brake screw
+    2300200: front caliper banjo bolts
+    2300202: front caliper bolts
+    2300204: front caliper fittings
+    2300206: front calipers
+    2300208: front fender
+    2300210: front fender bolts
+    2300212: front pad springs
+    2300214: front rim
+    2300216: front rotor bolts
+    2300218: front rotor floating rings
+    2300220: front rotor outer
+    2300222: front spacer
+    2300224: front tire bead
+    2300226: front tire surface
+    2300228: fuel cap
+    2300230: fuel cap bolts
+    2300232: fuel rail assembly
+    2300234: fuel rail bolts
+    2300236: fuel rail cap
+    2300238: fuel tank
+    2300240: grips
+    2300242: hall sensor
+    2300244: handlebar ties
+    2300246: handlebars
+    2300248: harness
+    2300250: harness sleeve
+    2300252: hazard lights
+    2300254: head nut
+    2300256: head stem
+    2300258: header nuts
+    2300260: header studs
+    2300262: headers and pipe
+    2300264: headlight back
+    2300266: headlight bolts
+    2300268: headlight boot
+    2300270: headlight brackets
+    2300272: headlight chin
+    2300274: headlight faceplate
+    2300276: headlight faceplate.001
+    2300278: headlight flasher
+    2300280: headlight glass
+    2300282: Headlight LED Lenses
+    2300284: headlight projector lenses
+    2300286: headlights switch
+    2300288: horn button
+    2300290: ignition switch
+    2300292: inner link surface
+    2300294: inner link surface|inner link|Dupli|
+    2300296: inner link surface|inner link|Dupli|1
+    2300298: inner link surface|inner link|Dupli|10
+    2300300: inner link surface|inner link|Dupli|11
+    2300302: inner link surface|inner link|Dupli|12
+    2300304: inner link surface|inner link|Dupli|13
+    2300306: inner link surface|inner link|Dupli|14
+    2300308: inner link surface|inner link|Dupli|15
+    2300310: inner link surface|inner link|Dupli|16
+    2300312: inner link surface|inner link|Dupli|17
+    2300314: inner link surface|inner link|Dupli|18
+    2300316: inner link surface|inner link|Dupli|19
+    2300318: inner link surface|inner link|Dupli|2
+    2300320: inner link surface|inner link|Dupli|20
+    2300322: inner link surface|inner link|Dupli|21
+    2300324: inner link surface|inner link|Dupli|22
+    2300326: inner link surface|inner link|Dupli|23
+    2300328: inner link surface|inner link|Dupli|24
+    2300330: inner link surface|inner link|Dupli|25
+    2300332: inner link surface|inner link|Dupli|26
+    2300334: inner link surface|inner link|Dupli|27
+    2300336: inner link surface|inner link|Dupli|28
+    2300338: inner link surface|inner link|Dupli|29
+    2300340: inner link surface|inner link|Dupli|3
+    2300342: inner link surface|inner link|Dupli|30
+    2300344: inner link surface|inner link|Dupli|31
+    2300346: inner link surface|inner link|Dupli|32
+    2300348: inner link surface|inner link|Dupli|33
+    2300350: inner link surface|inner link|Dupli|34
+    2300352: inner link surface|inner link|Dupli|35
+    2300354: inner link surface|inner link|Dupli|36
+    2300356: inner link surface|inner link|Dupli|37
+    2300358: inner link surface|inner link|Dupli|38
+    2300360: inner link surface|inner link|Dupli|39
+    2300362: inner link surface|inner link|Dupli|4
+    2300364: inner link surface|inner link|Dupli|40
+    2300366: inner link surface|inner link|Dupli|41
+    2300368: inner link surface|inner link|Dupli|42
+    2300370: inner link surface|inner link|Dupli|43
+    2300372: inner link surface|inner link|Dupli|44
+    2300374: inner link surface|inner link|Dupli|45
+    2300376: inner link surface|inner link|Dupli|46
+    2300378: inner link surface|inner link|Dupli|47
+    2300380: inner link surface|inner link|Dupli|48
+    2300382: inner link surface|inner link|Dupli|49
+    2300384: inner link surface|inner link|Dupli|5
+    2300386: inner link surface|inner link|Dupli|50
+    2300388: inner link surface|inner link|Dupli|51
+    2300390: inner link surface|inner link|Dupli|52
+    2300392: inner link surface|inner link|Dupli|53
+    2300394: inner link surface|inner link|Dupli|6
+    2300396: inner link surface|inner link|Dupli|7
+    2300398: inner link surface|inner link|Dupli|8
+    2300400: inner link surface|inner link|Dupli|9
+    2300402: instrument cluster bolts
+    2300404: instruments
+    2300406: instruments boot
+    2300408: instruments bracket
+    2300410: jacket connector
+    2300412: jacket cover bolts
+    2300414: kickstand
+    2300416: kickstand bracket
+    2300418: kickstand spring
+    2300420: kickstand spring cover
+    2300422: led strips
+    2300424: left chain tensioner
+    2300426: left controls
+    2300428: left rearset
+    2300430: left rearset bolt
+    2300432: license plate
+    2300434: lower clamps
+    2300436: lower head bearings
+    2300438: lower linkage bolt
+    2300440: lower recievers
+    2300442: lower shock bolt
+    2300444: lower triple clamp bolts
+    2300446: master cylinder bolts
+    2300448: o2 sensor
+    2300450: o2 sensor clips
+    2300452: o2 sensor wire
+    2300454: oil cap
+    2300456: oil cooler
+    2300458: oil filter
+    2300460: oil pan
+    2300462: oil pan bolts
+    2300464: oil window
+    2300466: outer link surface
+    2300468: outer link surface|outer link|Dupli|
+    2300470: outer link surface|outer link|Dupli|1
+    2300472: outer link surface|outer link|Dupli|10
+    2300474: outer link surface|outer link|Dupli|11
+    2300476: outer link surface|outer link|Dupli|12
+    2300478: outer link surface|outer link|Dupli|13
+    2300480: outer link surface|outer link|Dupli|14
+    2300482: outer link surface|outer link|Dupli|15
+    2300484: outer link surface|outer link|Dupli|16
+    2300486: outer link surface|outer link|Dupli|17
+    2300488: outer link surface|outer link|Dupli|18
+    2300490: outer link surface|outer link|Dupli|19
+    2300492: outer link surface|outer link|Dupli|2
+    2300494: outer link surface|outer link|Dupli|20
+    2300496: outer link surface|outer link|Dupli|21
+    2300498: outer link surface|outer link|Dupli|22
+    2300500: outer link surface|outer link|Dupli|23
+    2300502: outer link surface|outer link|Dupli|24
+    2300504: outer link surface|outer link|Dupli|25
+    2300506: outer link surface|outer link|Dupli|26
+    2300508: outer link surface|outer link|Dupli|27
+    2300510: outer link surface|outer link|Dupli|28
+    2300512: outer link surface|outer link|Dupli|29
+    2300514: outer link surface|outer link|Dupli|3
+    2300516: outer link surface|outer link|Dupli|30
+    2300518: outer link surface|outer link|Dupli|31
+    2300520: outer link surface|outer link|Dupli|32
+    2300522: outer link surface|outer link|Dupli|33
+    2300524: outer link surface|outer link|Dupli|34
+    2300526: outer link surface|outer link|Dupli|35
+    2300528: outer link surface|outer link|Dupli|36
+    2300530: outer link surface|outer link|Dupli|37
+    2300532: outer link surface|outer link|Dupli|38
+    2300534: outer link surface|outer link|Dupli|39
+    2300536: outer link surface|outer link|Dupli|4
+    2300538: outer link surface|outer link|Dupli|40
+    2300540: outer link surface|outer link|Dupli|41
+    2300542: outer link surface|outer link|Dupli|42
+    2300544: outer link surface|outer link|Dupli|43
+    2300546: outer link surface|outer link|Dupli|44
+    2300548: outer link surface|outer link|Dupli|45
+    2300550: outer link surface|outer link|Dupli|46
+    2300552: outer link surface|outer link|Dupli|47
+    2300554: outer link surface|outer link|Dupli|48
+    2300556: outer link surface|outer link|Dupli|49
+    2300558: outer link surface|outer link|Dupli|5
+    2300560: outer link surface|outer link|Dupli|50
+    2300562: outer link surface|outer link|Dupli|51
+    2300564: outer link surface|outer link|Dupli|52
+    2300566: outer link surface|outer link|Dupli|6
+    2300568: outer link surface|outer link|Dupli|7
+    2300570: outer link surface|outer link|Dupli|8
+    2300572: outer link surface|outer link|Dupli|9
+    2300574: outer link.032
+    2300576: overflows
+    2300578: passenger pegs
+    2300580: passenger sets
+    2300582: pegs
+    2300584: pillian sets bolts
+    2300586: piston chrome
+    2300588: plate bracket
+    2300590: projector backlights
+    2300592: quick shift lever
+    2300594: quickshift wire
+    2300596: quickshifter ties
+    2300598: radiator bolts
+    2300600: radiator cap
+    2300602: radiator clamps
+    2300604: radiator fan
+    2300606: radiator hoses
+    2300608: radiator overflow
+    2300610: raditator
+    2300612: raditator brackets
+    2300614: reach adjuster
+    2300616: reach adjuster.001
+    2300618: rear abs bolts
+    2300620: rear abs cable grommet
+    2300622: rear abs ring spacers
+    2300624: rear abs sensor bolt
+    2300626: rear abs sensor cable
+    2300628: rear abs sensor ring
+    2300630: rear axle assembly
+    2300632: rear brake fluid
+    2300634: rear brake fluid resovoir
+    2300636: rear brake fluid resovoir bracket
+    2300638: rear brake fluid resovoir.001
+    2300640: rear brake line capture
+    2300642: rear brake lines
+    2300644: rear brake lines strap
+    2300646: rear brake lines.001
+    2300648: rear brake pads
+    2300650: rear brake pedal
+    2300652: rear brake pedal linkage
+    2300654: rear caliper
+    2300656: rear caliper bolts
+    2300658: rear caliper mount
+    2300660: rear caliper piston
+    2300662: rear fluid resovoir screw
+    2300664: rear hugger
+    2300666: rear hugger bolts
+    2300668: rear master cylinder
+    2300670: rear rotor
+    2300672: rear rotor bolts
+    2300674: rear signal wires
+    2300676: rear sprocket
+    2300678: rear tire bead
+    2300680: rear tire surface
+    2300682: rear turn signal
+    2300684: rear turn signal lens
+    2300686: rear turn signal lens.001
+    2300688: rear turn signal.001
+    2300690: rear wheel adjusters
+    2300692: rear wheel geometry
+    2300694: rear wheel spacer left
+    2300696: rear wheel spacer right
+    2300698: rectifier
+    2300700: rectifier bolts
+    2300702: regulator connectors
+    2300704: ride mode
+    2300706: right chain tensioner
+    2300708: right controls
+    2300710: right rearset
+    2300712: right side head cables
+    2300714: right side head wires
+    2300716: rough_swingarn
+    2300718: rubber couplers
+    2300720: scoop bolts
+    2300722: scoops
+    2300724: screws
+    2300726: seat
+    2300728: shift actuator
+    2300730: shift spindle
+    2300732: shifter
+    2300734: shock base
+    2300736: shock linkage
+    2300738: shock mount bolts
+    2300740: shock spring
+    2300742: shock tip
+    2300744: sprocket
+    2300746: sprocket cover
+    2300748: sprocket cover bolts
+    2300750: sprocket nuts
+    2300752: sprocket studs
+    2300754: starter cable
+    2300756: starter kill switch
+    2300758: starter motor
+    2300760: stator cover
+    2300762: stator cover bolts
+    2300764: subframe
+    2300766: subframe bolts
+    2300768: subframe cover
+    2300770: swingarm linkage
+    2300772: swingarm pivot
+    2300774: tail light glass
+    2300776: tail light LEDs
+    2300778: tail light reflector
+    2300780: tail_plastics
+    2300782: tank dressing
+    2300784: tank front trim
+    2300786: tank front trim fasteners
+    2300788: tank sides
+    2300790: thermostat
+    2300792: throttle bodies
+    2300794: throttle body air hoses
+    2300796: throttle body cap
+    2300798: throttle cable adjusters
+    2300800: throttle cable pulley
+    2300802: throttle cables
+    2300804: throttle cables bolts
+    2300806: throttle cables boot
+    2300808: throttle cables housing
+    2300810: throttle cables inner
+    2300812: throttle motor gearbox
+    2300814: throttle motor gearbox bolts
+    2300816: timing cover
+    2300818: timing cover bolts
+    2300820: top head bearings
+    2300822: tps
+    2300824: tps bolts
+    2300826: tps bolts.001
+    2300828: tps.001
+    2300830: traction control switch
+    2300832: turn signal switch
+    2300834: undertail bolt
+    2300836: undertail bolt.001
+    2300838: undertail bolt.003
+    2300840: upper clamps
+    2300842: upper linkage bolt
+    2300844: upper shock bolt
+    2300846: upper triple clamp bolts
+    2300848: vacuum sensor bracket
+    2300850: vacuum sensor screws
+    2300852: vacuum sensors
+    2300854: valve cover
+    2300856: valve cover bolts
+    2300858: valve cover gasket
+    2300860: valve stem
+    2300862: valve stem.001
+    2300864: washer
+    2300866: water pump bolts
+    2300868: water pump cover
+    3300000: abs block
+    3300002: abs block fittings
+    3300004: abs cable strap
+    3300006: abs sensor
+    3300008: abs sensor bracket
+    3300010: abs sensor fastener
+    3300012: adjustment_screw
+    3300014: airbox
+    3300016: airbox screws
+    3300018: ais bolts
+    3300020: banjo bolt
+    3300022: banjo bolt.001
+    3300024: banjo bolt.002
+    3300026: banjo bolt.003
+    3300028: banjo fitting
+    3300030: banjo fitting.001
+    3300032: bar clamps
+    3300034: bar end bolts
+    3300036: bar ends
+    3300038: bars bolts
+    3300040: battery box
+    3300042: bleed nipple
+    3300044: bleed nipple.001
+    3300046: bolt.001
+    3300048: bolt.003
+    3300050: bolt.005
+    3300052: bolt.006
+    3300054: bolt.007
+    3300056: bolt.008
+    3300058: bolt.009
+    3300060: brake lever bolts
+    3300062: breather
+    3300064: bumper
+    3300066: butterflys
+    3300068: buttons
+    3300070: caliper pin locator
+    3300072: cam chain tensioner
+    3300074: cam chain tensioner nut
+    3300076: cam chain tensioner nut.007
+    3300078: cam chain tensioner nut.009
+    3300080: cap
+    3300082: cct
+    3300084: cct bolts
+    3300086: chain
+    3300088: chain path
+    3300090: clutch actuator
+    3300092: clutch cable adjuster
+    3300094: clutch cable bolts
+    3300096: clutch cable bracket
+    3300098: clutch cable end
+    3300100: clutch cable inner
+    3300102: clutch cable lower
+    3300104: clutch cover
+    3300106: clutch cover bolts
+    3300108: clutch lever
+    3300110: clutch lever bolts
+    3300112: clutch lever mount
+    3300114: clutch lever mount bolt
+    3300116: clutch pivot bolt
+    3300118: clutch spring
+    3300120: coilpacks
+    3300122: coolant bottle guard
+    3300124: coolant resovoir
+    3300126: coolant resovoir cap
+    3300128: countershaft
+    3300130: couplings
+    3300132: crank case
+    3300134: crank case bolt
+    3300136: cylinder bolts
+    3300138: cylinder gasket
+    3300140: cylinders
+    3300142: drain plug
+    3300144: ecu
+    3300146: engine mounting bolt
+    3300148: engine mounts
+    3300150: exhaust barrel
+    3300152: exhaust bolt
+    3300154: exhaust mesh
+    3300156: exhaust ring
+    3300158: fork pinch bolt
+    3300160: fork_tube
+    3300162: fork_tube.002
+    3300164: fork_tube.003
+    3300166: fork_tube.004
+    3300168: fork_tube.005
+    3300170: fork_tube.006
+    3300172: frame
+    3300174: frame inserts
+    3300176: fromt rotor inner
+    3300178: front  abs sensor ring
+    3300180: front abs ring bolts
+    3300182: front abs ring mount
+    3300184: front axle
+    3300186: front brake lever
+    3300188: front brake line capture
+    3300190: front brake lines
+    3300192: front brake master cylinder
+    3300194: front brake master cylinder.001
+    3300196: front brake pads
+    3300198: front brake screw
+    3300200: front caliper banjo bolts
+    3300202: front caliper bolts
+    3300204: front caliper fittings
+    3300206: front calipers
+    3300208: front fender
+    3300210: front fender bolts
+    3300212: front pad springs
+    3300214: front rim
+    3300216: front rotor bolts
+    3300218: front rotor floating rings
+    3300220: front rotor outer
+    3300222: front spacer
+    3300224: front tire bead
+    3300226: front tire surface
+    3300228: fuel cap
+    3300230: fuel cap bolts
+    3300232: fuel rail assembly
+    3300234: fuel rail bolts
+    3300236: fuel rail cap
+    3300238: fuel tank
+    3300240: grips
+    3300242: hall sensor
+    3300244: handlebar ties
+    3300246: handlebars
+    3300248: harness
+    3300250: harness sleeve
+    3300252: hazard lights
+    3300254: head nut
+    3300256: head stem
+    3300258: header nuts
+    3300260: header studs
+    3300262: headers and pipe
+    3300264: headlight back
+    3300266: headlight bolts
+    3300268: headlight boot
+    3300270: headlight brackets
+    3300272: headlight chin
+    3300274: headlight faceplate
+    3300276: headlight faceplate.001
+    3300278: headlight flasher
+    3300280: headlight glass
+    3300282: Headlight LED Lenses
+    3300284: headlight projector lenses
+    3300286: headlights switch
+    3300288: horn button
+    3300290: ignition switch
+    3300292: inner link surface
+    3300294: inner link surface|inner link|Dupli|
+    3300296: inner link surface|inner link|Dupli|1
+    3300298: inner link surface|inner link|Dupli|10
+    3300300: inner link surface|inner link|Dupli|11
+    3300302: inner link surface|inner link|Dupli|12
+    3300304: inner link surface|inner link|Dupli|13
+    3300306: inner link surface|inner link|Dupli|14
+    3300308: inner link surface|inner link|Dupli|15
+    3300310: inner link surface|inner link|Dupli|16
+    3300312: inner link surface|inner link|Dupli|17
+    3300314: inner link surface|inner link|Dupli|18
+    3300316: inner link surface|inner link|Dupli|19
+    3300318: inner link surface|inner link|Dupli|2
+    3300320: inner link surface|inner link|Dupli|20
+    3300322: inner link surface|inner link|Dupli|21
+    3300324: inner link surface|inner link|Dupli|22
+    3300326: inner link surface|inner link|Dupli|23
+    3300328: inner link surface|inner link|Dupli|24
+    3300330: inner link surface|inner link|Dupli|25
+    3300332: inner link surface|inner link|Dupli|26
+    3300334: inner link surface|inner link|Dupli|27
+    3300336: inner link surface|inner link|Dupli|28
+    3300338: inner link surface|inner link|Dupli|29
+    3300340: inner link surface|inner link|Dupli|3
+    3300342: inner link surface|inner link|Dupli|30
+    3300344: inner link surface|inner link|Dupli|31
+    3300346: inner link surface|inner link|Dupli|32
+    3300348: inner link surface|inner link|Dupli|33
+    3300350: inner link surface|inner link|Dupli|34
+    3300352: inner link surface|inner link|Dupli|35
+    3300354: inner link surface|inner link|Dupli|36
+    3300356: inner link surface|inner link|Dupli|37
+    3300358: inner link surface|inner link|Dupli|38
+    3300360: inner link surface|inner link|Dupli|39
+    3300362: inner link surface|inner link|Dupli|4
+    3300364: inner link surface|inner link|Dupli|40
+    3300366: inner link surface|inner link|Dupli|41
+    3300368: inner link surface|inner link|Dupli|42
+    3300370: inner link surface|inner link|Dupli|43
+    3300372: inner link surface|inner link|Dupli|44
+    3300374: inner link surface|inner link|Dupli|45
+    3300376: inner link surface|inner link|Dupli|46
+    3300378: inner link surface|inner link|Dupli|47
+    3300380: inner link surface|inner link|Dupli|48
+    3300382: inner link surface|inner link|Dupli|49
+    3300384: inner link surface|inner link|Dupli|5
+    3300386: inner link surface|inner link|Dupli|50
+    3300388: inner link surface|inner link|Dupli|51
+    3300390: inner link surface|inner link|Dupli|52
+    3300392: inner link surface|inner link|Dupli|53
+    3300394: inner link surface|inner link|Dupli|6
+    3300396: inner link surface|inner link|Dupli|7
+    3300398: inner link surface|inner link|Dupli|8
+    3300400: inner link surface|inner link|Dupli|9
+    3300402: instrument cluster bolts
+    3300404: instruments
+    3300406: instruments boot
+    3300408: instruments bracket
+    3300410: jacket connector
+    3300412: jacket cover bolts
+    3300414: kickstand
+    3300416: kickstand bracket
+    3300418: kickstand spring
+    3300420: kickstand spring cover
+    3300422: led strips
+    3300424: left chain tensioner
+    3300426: left controls
+    3300428: left rearset
+    3300430: left rearset bolt
+    3300432: license plate
+    3300434: lower clamps
+    3300436: lower head bearings
+    3300438: lower linkage bolt
+    3300440: lower recievers
+    3300442: lower shock bolt
+    3300444: lower triple clamp bolts
+    3300446: master cylinder bolts
+    3300448: o2 sensor
+    3300450: o2 sensor clips
+    3300452: o2 sensor wire
+    3300454: oil cap
+    3300456: oil cooler
+    3300458: oil filter
+    3300460: oil pan
+    3300462: oil pan bolts
+    3300464: oil window
+    3300466: outer link surface
+    3300468: outer link surface|outer link|Dupli|
+    3300470: outer link surface|outer link|Dupli|1
+    3300472: outer link surface|outer link|Dupli|10
+    3300474: outer link surface|outer link|Dupli|11
+    3300476: outer link surface|outer link|Dupli|12
+    3300478: outer link surface|outer link|Dupli|13
+    3300480: outer link surface|outer link|Dupli|14
+    3300482: outer link surface|outer link|Dupli|15
+    3300484: outer link surface|outer link|Dupli|16
+    3300486: outer link surface|outer link|Dupli|17
+    3300488: outer link surface|outer link|Dupli|18
+    3300490: outer link surface|outer link|Dupli|19
+    3300492: outer link surface|outer link|Dupli|2
+    3300494: outer link surface|outer link|Dupli|20
+    3300496: outer link surface|outer link|Dupli|21
+    3300498: outer link surface|outer link|Dupli|22
+    3300500: outer link surface|outer link|Dupli|23
+    3300502: outer link surface|outer link|Dupli|24
+    3300504: outer link surface|outer link|Dupli|25
+    3300506: outer link surface|outer link|Dupli|26
+    3300508: outer link surface|outer link|Dupli|27
+    3300510: outer link surface|outer link|Dupli|28
+    3300512: outer link surface|outer link|Dupli|29
+    3300514: outer link surface|outer link|Dupli|3
+    3300516: outer link surface|outer link|Dupli|30
+    3300518: outer link surface|outer link|Dupli|31
+    3300520: outer link surface|outer link|Dupli|32
+    3300522: outer link surface|outer link|Dupli|33
+    3300524: outer link surface|outer link|Dupli|34
+    3300526: outer link surface|outer link|Dupli|35
+    3300528: outer link surface|outer link|Dupli|36
+    3300530: outer link surface|outer link|Dupli|37
+    3300532: outer link surface|outer link|Dupli|38
+    3300534: outer link surface|outer link|Dupli|39
+    3300536: outer link surface|outer link|Dupli|4
+    3300538: outer link surface|outer link|Dupli|40
+    3300540: outer link surface|outer link|Dupli|41
+    3300542: outer link surface|outer link|Dupli|42
+    3300544: outer link surface|outer link|Dupli|43
+    3300546: outer link surface|outer link|Dupli|44
+    3300548: outer link surface|outer link|Dupli|45
+    3300550: outer link surface|outer link|Dupli|46
+    3300552: outer link surface|outer link|Dupli|47
+    3300554: outer link surface|outer link|Dupli|48
+    3300556: outer link surface|outer link|Dupli|49
+    3300558: outer link surface|outer link|Dupli|5
+    3300560: outer link surface|outer link|Dupli|50
+    3300562: outer link surface|outer link|Dupli|51
+    3300564: outer link surface|outer link|Dupli|52
+    3300566: outer link surface|outer link|Dupli|6
+    3300568: outer link surface|outer link|Dupli|7
+    3300570: outer link surface|outer link|Dupli|8
+    3300572: outer link surface|outer link|Dupli|9
+    3300574: outer link.032
+    3300576: overflows
+    3300578: passenger pegs
+    3300580: passenger sets
+    3300582: pegs
+    3300584: pillian sets bolts
+    3300586: piston chrome
+    3300588: plate bracket
+    3300590: projector backlights
+    3300592: quick shift lever
+    3300594: quickshift wire
+    3300596: quickshifter ties
+    3300598: radiator bolts
+    3300600: radiator cap
+    3300602: radiator clamps
+    3300604: radiator fan
+    3300606: radiator hoses
+    3300608: radiator overflow
+    3300610: raditator
+    3300612: raditator brackets
+    3300614: reach adjuster
+    3300616: reach adjuster.001
+    3300618: rear abs bolts
+    3300620: rear abs cable grommet
+    3300622: rear abs ring spacers
+    3300624: rear abs sensor bolt
+    3300626: rear abs sensor cable
+    3300628: rear abs sensor ring
+    3300630: rear axle assembly
+    3300632: rear brake fluid
+    3300634: rear brake fluid resovoir
+    3300636: rear brake fluid resovoir bracket
+    3300638: rear brake fluid resovoir.001
+    3300640: rear brake line capture
+    3300642: rear brake lines
+    3300644: rear brake lines strap
+    3300646: rear brake lines.001
+    3300648: rear brake pads
+    3300650: rear brake pedal
+    3300652: rear brake pedal linkage
+    3300654: rear caliper
+    3300656: rear caliper bolts
+    3300658: rear caliper mount
+    3300660: rear caliper piston
+    3300662: rear fluid resovoir screw
+    3300664: rear hugger
+    3300666: rear hugger bolts
+    3300668: rear master cylinder
+    3300670: rear rotor
+    3300672: rear rotor bolts
+    3300674: rear signal wires
+    3300676: rear sprocket
+    3300678: rear tire bead
+    3300680: rear tire surface
+    3300682: rear turn signal
+    3300684: rear turn signal lens
+    3300686: rear turn signal lens.001
+    3300688: rear turn signal.001
+    3300690: rear wheel adjusters
+    3300692: rear wheel geometry
+    3300694: rear wheel spacer left
+    3300696: rear wheel spacer right
+    3300698: rectifier
+    3300700: rectifier bolts
+    3300702: regulator connectors
+    3300704: ride mode
+    3300706: right chain tensioner
+    3300708: right controls
+    3300710: right rearset
+    3300712: right side head cables
+    3300714: right side head wires
+    3300716: rough_swingarn
+    3300718: rubber couplers
+    3300720: scoop bolts
+    3300722: scoops
+    3300724: screws
+    3300726: seat
+    3300728: shift actuator
+    3300730: shift spindle
+    3300732: shifter
+    3300734: shock base
+    3300736: shock linkage
+    3300738: shock mount bolts
+    3300740: shock spring
+    3300742: shock tip
+    3300744: sprocket
+    3300746: sprocket cover
+    3300748: sprocket cover bolts
+    3300750: sprocket nuts
+    3300752: sprocket studs
+    3300754: starter cable
+    3300756: starter kill switch
+    3300758: starter motor
+    3300760: stator cover
+    3300762: stator cover bolts
+    3300764: subframe
+    3300766: subframe bolts
+    3300768: subframe cover
+    3300770: swingarm linkage
+    3300772: swingarm pivot
+    3300774: tail light glass
+    3300776: tail light LEDs
+    3300778: tail light reflector
+    3300780: tail_plastics
+    3300782: tank dressing
+    3300784: tank front trim
+    3300786: tank front trim fasteners
+    3300788: tank sides
+    3300790: thermostat
+    3300792: throttle bodies
+    3300794: throttle body air hoses
+    3300796: throttle body cap
+    3300798: throttle cable adjusters
+    3300800: throttle cable pulley
+    3300802: throttle cables
+    3300804: throttle cables bolts
+    3300806: throttle cables boot
+    3300808: throttle cables housing
+    3300810: throttle cables inner
+    3300812: throttle motor gearbox
+    3300814: throttle motor gearbox bolts
+    3300816: timing cover
+    3300818: timing cover bolts
+    3300820: top head bearings
+    3300822: tps
+    3300824: tps bolts
+    3300826: tps bolts.001
+    3300828: tps.001
+    3300830: traction control switch
+    3300832: turn signal switch
+    3300834: undertail bolt
+    3300836: undertail bolt.001
+    3300838: undertail bolt.003
+    3300840: upper clamps
+    3300842: upper linkage bolt
+    3300844: upper shock bolt
+    3300846: upper triple clamp bolts
+    3300848: vacuum sensor bracket
+    3300850: vacuum sensor screws
+    3300852: vacuum sensors
+    3300854: valve cover
+    3300856: valve cover bolts
+    3300858: valve cover gasket
+    3300860: valve stem
+    3300862: valve stem.001
+    3300864: washer
+    3300866: water pump bolts
+    3300868: water pump cover
+    4300000: airbox screws
+    4300002: ecu
+    4300004: airbox
+    4300006: upper clamps
+    4300008: harness
+    4300010: throttle cables inner
+    4300012: throttle cables
+    4300014: throttle cable adjusters
+    4300016: butterflys
+    4300018: throttle cable pulley
+    4300020: couplings
+    4300022: throttle body air hoses
+    4300024: throttle motor gearbox bolts
+    4300026: vacuum sensor bracket
+    4300028: vacuum sensor screws
+    4300030: vacuum sensors
+    4300032: tps bolts.001
+    4300034: tps.001
+    4300036: tps bolts
+    4300038: tps
+    4300040: screws
+    4300042: throttle motor gearbox
+    4300044: throttle bodies
+    4300046: fuel rail cap
+    4300048: fuel rail bolts
+    4300050: throttle body cap
+    4300052: fuel rail assembly
+    4300054: oil window
+    4300056: header nuts
+    4300058: o2 sensor clips
+    4300060: o2 sensor
+    4300062: o2 sensor wire
+    4300064: clutch cable lower
+    4300066: starter cable
+    4300068: exhaust barrel
+    4300070: exhaust mesh
+    4300072: exhaust ring
+    4300074: overflows
+    4300076: breather
+    4300078: radiator overflow
+    4300080: lower clamps
+    4300082: rubber couplers
+    4300084: coolant resovoir cap
+    4300086: coolant resovoir
+    4300088: washer
+    4300090: bolt.007
+    4300092: bolt.008
+    4300094: coolant bottle guard
+    4300096: sprocket cover bolts
+    4300098: clutch cable inner
+    4300100: clutch cable end
+    4300102: clutch cable bolts
+    4300104: clutch cable bracket
+    4300106: clutch spring
+    4300108: clutch actuator
+    4300110: cam chain tensioner
+    4300112: cam chain tensioner nut
+    4300114: cct bolts
+    4300116: cct
+    4300118: countershaft
+    4300120: sprocket
+    4300122: drain plug
+    4300124: radiator fan
+    4300126: crank case
+    4300128: cylinder gasket
+    4300130: valve cover gasket
+    4300132: valve cover
+    4300134: radiator cap
+    4300136: jacket cover bolts
+    4300138: jacket connector
+    4300140: thermostat
+    4300142: crank case bolt
+    4300144: oil pan bolts
+    4300146: ais bolts
+    4300148: header studs
+    4300150: timing cover bolts
+    4300152: clutch cover bolts
+    4300154: valve cover bolts
+    4300156: coilpacks
+    4300158: cylinder bolts
+    4300160: bolt.006
+    4300162: oil cap
+    4300164: bolt.009
+    4300166: cap
+    4300168: timing cover
+    4300170: shift spindle
+    4300172: oil cooler
+    4300174: sprocket cover
+    4300176: stator cover bolts
+    4300178: water pump bolts
+    4300180: water pump cover
+    4300182: starter motor
+    4300184: oil pan
+    4300186: oil filter
+    4300188: radiator hoses
+    4300190: radiator clamps
+    4300192: headers and pipe
+    4300194: raditator
+    4300196: cylinders
+    4300198: clutch cover
+    4300200: stator cover
+    4300202: chain
+    4300204: chain path
+    4300206: outer link surface
+    4300208: outer link surface|outer link|Dupli|
+    4300210: inner link surface
+    4300212: inner link surface|inner link|Dupli|
+    4300214: outer link.032
+    4300216: fuel cap
+    4300218: fuel cap bolts
+    4300220: rear signal wires
+    4300222: plate bracket
+    4300224: tank sides
+    4300226: tail light glass
+    4300228: tank front trim
+    4300230: tank dressing
+    4300232: subframe cover
+    4300234: tail_plastics
+    4300236: fuel tank
+    4300238: license plate
+    4300240: scoop bolts
+    4300242: rear turn signal
+    4300244: rear turn signal lens
+    4300246: undertail bolt.003
+    4300248: undertail bolt.001
+    4300250: tank front trim fasteners
+    4300252: scoops
+    4300254: seat
+    4300256: tail light LEDs
+    4300258: tail light reflector
+    4300260: undertail bolt
+    4300262: rear tire bead
+    4300264: rear tire surface
+    4300266: rear wheel geometry
+    4300268: rear sprocket
+    4300270: rear rotor
+    4300272: sprocket nuts
+    4300274: rear rotor bolts
+    4300276: sprocket studs
+    4300278: rear abs ring spacers
+    4300280: rear abs sensor ring
+    4300282: rear abs bolts
+    4300284: valve stem.001
+    4300286: shock tip
+    4300288: bumper
+    4300290: piston chrome
+    4300292: shock base
+    4300294: shock spring
+    4300296: rear brake fluid
+    4300298: upper linkage bolt
+    4300300: radiator bolts
+    4300302: harness sleeve
+    4300304: rear brake lines strap
+    4300306: rear brake line capture
+    4300308: abs block fittings
+    4300310: rear brake lines.001
+    4300312: abs block
+    4300314: rear brake fluid resovoir bracket
+    4300316: rear fluid resovoir screw
+    4300318: rear brake fluid resovoir.001
+    4300320: cam chain tensioner nut.009
+    4300322: kickstand bracket
+    4300324: rectifier bolts
+    4300326: regulator connectors
+    4300328: rectifier
+    4300330: rear brake pedal linkage
+    4300332: banjo fitting.001
+    4300334: banjo bolt.003
+    4300336: rear master cylinder
+    4300338: upper shock bolt
+    4300340: quickshifter ties
+    4300342: quickshift wire
+    4300344: quick shift lever
+    4300346: shift actuator
+    4300348: shifter
+    4300350: swingarm pivot
+    4300352: left rearset bolt
+    4300354: bolt.001
+    4300356: left rearset
+    4300358: cam chain tensioner nut.007
+    4300360: lower linkage bolt
+    4300362: swingarm linkage
+    4300364: shock linkage
+    4300366: lower head bearings
+    4300368: top head bearings
+    4300370: banjo bolt.001
+    4300372: bleed nipple.001
+    4300374: rear abs cable grommet
+    4300376: rear caliper piston
+    4300378: rear brake pads
+    4300380: rear caliper bolts
+    4300382: rear caliper mount
+    4300384: hall sensor
+    4300386: caliper pin locator
+    4300388: rear caliper
+    4300390: subframe
+    4300392: rear abs sensor cable
+    4300394: rear brake lines
+    4300396: rear brake fluid resovoir
+    4300398: rear hugger
+    4300400: rear hugger bolts
+    4300402: rear brake pedal
+    4300404: battery box
+    4300406: frame
+    4300408: head stem
+    4300410: front fender
+    4300412: front fender bolts
+    4300414: front tire bead
+    4300416: front tire surface
+    4300418: front rim
+    4300420: valve stem
+    4300422: front rotor bolts
+    4300424: front rotor floating rings
+    4300426: front rotor outer
+    4300428: fromt rotor inner
+    4300430: front  abs sensor ring
+    4300432: front abs ring mount
+    4300434: front abs ring bolts
+    4300436: handlebar ties
+    4300438: clutch cable adjuster
+    4300440: clutch lever mount bolt
+    4300442: front brake screw
+    4300444: banjo fitting
+    4300446: banjo bolt
+    4300448: clutch lever mount
+    4300450: front brake master cylinder
+    4300452: instrument cluster bolts
+    4300454: instruments bracket
+    4300456: headlight boot
+    4300458: right side head wires
+    4300460: instruments boot
+    4300462: ignition switch
+    4300464: head nut
+    4300466: headlight flasher
+    4300468: left controls
+    4300470: traction control switch
+    4300472: headlights switch
+    4300474: horn button
+    4300476: turn signal switch
+    4300478: starter kill switch
+    4300480: hazard lights
+    4300482: ride mode
+    4300484: right controls
+    4300486: clutch lever
+    4300488: reach adjuster.001
+    4300490: clutch lever bolts
+    4300492: front brake lever
+    4300494: brake lever bolts
+    4300496: reach adjuster
+    4300498: right side head cables
+    4300500: throttle cables housing
+    4300502: throttle cables boot
+    4300504: throttle cables bolts
+    4300506: front brake line capture
+    4300508: headlight brackets
+    4300510: headlight glass
+    4300512: headlight back
+    4300514: headlight faceplate.001
+    4300516: headlight faceplate
+    4300518: projector backlights
+    4300520: led strips
+    4300522: Headlight LED Lenses
+    4300524: headlight projector lenses
+    4300526: headlight chin
+    4300528: fork pinch bolt
+    4300530: abs cable strap
+    4300532: abs sensor bracket
+    4300534: abs sensor
+    4300536: front axle
+    4300538: front caliper banjo bolts
+    4300540: front caliper fittings
+    4300542: bar clamps
+    4300544: bars bolts
+    4300546: instruments
+    4300548: buttons
+    4300550: front brake lines
+    4300552: handlebars
+    4300554: grips
+    4300556: bar end bolts
+    4300558: bar ends
+    4300560: clutch pivot bolt
+    4300562: master cylinder bolts
+    4300564: rear turn signal.001
+    4300566: rear turn signal lens.001
+    4300568: headlight bolts
+    4300570: fork_tube.006
+    4300572: abs sensor fastener
+    4300574: front brake pads
+    4300576: bleed nipple
+    4300578: front caliper bolts
+    4300580: front pad springs
+    4300582: front calipers
+    4300584: fork_tube.005
+    4300586: fork_tube.004
+    4300588: fork_tube.003
+    4300590: lower triple clamp bolts
+    4300592: fork_tube.002
+    4300594: upper triple clamp bolts
+    4300596: fork_tube
+    4300598: lower recievers
+    4300600: adjustment_screw
+    4300602: front brake master cylinder.001
+    4300604: front spacer
+    4300606: frame inserts
+    4300608: engine mounting bolt
+    4300610: engine mounts
+    4300612: lower shock bolt
+    4300614: exhaust bolt
+    4300616: rear axle assembly
+    4300618: banjo bolt.002
+    4300620: rough_swingarn
+    4300622: left chain tensioner
+    4300624: right chain tensioner
+    4300626: rear wheel adjusters
+    4300628: subframe bolts
+    4300630: shock mount bolts
+    4300632: passenger pegs
+    4300634: bolt.005
+    4300636: bolt.003
+    4300638: rear abs sensor bolt
+    4300640: pillian sets bolts
+    4300642: passenger sets
+    4300644: pegs
+    4300646: raditator brackets
+    4300648: right rearset
+    4300650: kickstand
+    4300652: kickstand spring
+    4300654: kickstand spring cover
+    4300656: rear wheel spacer left
+    4300658: rear wheel spacer right
+    7400000: outer link surface|outer link surfaceAction
+    7400002: inner link surface|outer link surfaceAction
+    7400004: kickstand|outer link surfaceAction
+    7400006: head stem|outer link surfaceAction
+    9500000: //RootNode
+    10800000: headlight upper
+    10800002: tail light
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum
+    second: {fileID: 2100000, guid: 953d9925de329014cadfb5f880b20cdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anodized
+    second: {fileID: 2100000, guid: 506debf3db681674ab88d5df92d4664d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banjo Bolt
+    second: {fileID: 2100000, guid: 9f7b6f25afe514448a114779532a22c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Dull Metal
+    second: {fileID: 2100000, guid: 19fcc736b3c0c414bbe2e75a5327f1df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Paint
+    second: {fileID: 2100000, guid: 0585d904997ff2440bd4ffe085c98cd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Plastic
+    second: {fileID: 2100000, guid: 969b329a625efcf40b78a7f40ee1308e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Plastic Shiny
+    second: {fileID: 2100000, guid: ba95cf7ce08003e488ef1a4dfe18a417, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Powder Coating
+    second: {fileID: 2100000, guid: 51082d07dcf70c8469d24e6725af27d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Rubber
+    second: {fileID: 2100000, guid: ab869eb6f4cb6cf428dd22ef6164e3a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake Fluid
+    second: {fileID: 2100000, guid: 17779acd5b3410f4dac127ad18524e3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake Pads
+    second: {fileID: 2100000, guid: fd13a7af84a1f05479078a2d1d9c7ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brass
+    second: {fileID: 2100000, guid: c2696ac52cc2d034989aeb72d1ca105c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caliper Spring
+    second: {fileID: 2100000, guid: f2bde53bde33b044784ab9c5af983d38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chain Inner Plates
+    second: {fileID: 2100000, guid: aa46fb87e68fbe64c8158768427e5825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chain Outer Plates
+    second: {fileID: 2100000, guid: 0980edaca5b636a47ae0504a87ea1a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chain Rollers
+    second: {fileID: 2100000, guid: 4baa3a3db5f43dc4d8cc7c024edf0581, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 31f4631e3d0935042b18005a65a25666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clutch Cable
+    second: {fileID: 2100000, guid: 3fdd2a5d8cacf4b4a8d6d2f769b8383b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coolant Bottle
+    second: {fileID: 2100000, guid: dc20ed248e17b0449b0ca62efa9e28b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Metal
+    second: {fileID: 2100000, guid: e197bc5665da3384abbc2c0d22dde34c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Shiny
+    second: {fileID: 2100000, guid: 679ad401c93d44e438f5fa5ab49615c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dull Metal
+    second: {fileID: 2100000, guid: 9599b9d881e44b847adc93b38c9086d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electrical
+    second: {fileID: 2100000, guid: 7d0726e29bf3244409d7a87146ec7947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engine Bolt
+    second: {fileID: 2100000, guid: 97e9d6c432e308b4c884fbd37894d58d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engine Bronze
+    second: {fileID: 2100000, guid: 4e7539d4f6689d44b8a25455e3c5148c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engine Gray Rough
+    second: {fileID: 2100000, guid: c0c6feb0bb11533449ad99f71109329e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engine Gray Smooth
+    second: {fileID: 2100000, guid: 072c08668aeb2674f8db3ae3d74f67f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat Black Paint
+    second: {fileID: 2100000, guid: 755d5386ed5ab394badf2714c09a5239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forks
+    second: {fileID: 2100000, guid: 30ffe3ac1408a3d448b6938c1c1dea62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 2e97869916fb63a44a5c445be2d61087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headers
+    second: {fileID: 2100000, guid: 14d9da182f232fa47b3abe62fdb35d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headlight Casing
+    second: {fileID: 2100000, guid: 5c06cf5cd692f774b8c9c98598903012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: a29a9ae74287e0749bb7b91ba5512416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Milky Plastic
+    second: {fileID: 2100000, guid: 10be78a295e74d74d953c555f00f6ac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 677a602e4145c3341a50fd0b739e533f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint
+    second: {fileID: 2100000, guid: 1bd05f988ac94404695efb3cbb544de7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Projector Source
+    second: {fileID: 2100000, guid: 3b1b15fc0db20e74bad1056bfb76a8fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Plastic Shiny
+    second: {fileID: 2100000, guid: f56337e93bad10847b8db61391c7aec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SMD LED
+    second: {fileID: 2100000, guid: f61ec8f35f1212145bf80347f74866d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SMD LED Center
+    second: {fileID: 2100000, guid: 2a4bb9d3fd035a14aa81e06100b77874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seat
+    second: {fileID: 2100000, guid: acd626ab066c8b443bd7c80d71a5bf52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shiny Metal
+    second: {fileID: 2100000, guid: f0dcc5032bdbc7a49a70522129cfb9c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shock Coil
+    second: {fileID: 2100000, guid: f61cf2022ec23b442918d7b71a04357e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Throttle Cables
+    second: {fileID: 2100000, guid: f03516b23a3120641b89dc903dfb5403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tires
+    second: {fileID: 2100000, guid: 7bdf2af5a6337994db3bb1727b4a000a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheels
+    second: {fileID: 2100000, guid: 94912805b9ce8a746a4fa2d1a09bf1a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White PCB
+    second: {fileID: 2100000, guid: 89fd0e05e2541644294235866419eeaa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
